@@ -1,0 +1,24 @@
+{
+  "file_metadata": {
+    "path": "data\\raw\\original_dataset.csv",
+    "bytes": 15738123,
+    "sha256_hash": "b1466a93b3f4cf4fb9405a59a496ea3fb6ea1494ae1b9e74d93c694d8f601916"
+  },
+  "general_stats": {
+    "total_rows": 186336,
+    "unique_companies": 2152,
+    "unique_tickers": 2131,
+    "period_range": "2014 Q1 to 2016 Q4"
+  },
+  "data_quality": {
+    "exact_duplicate_rows": 50,
+    "key_groups_with_conflicts": 166,
+    "non_usd_rows": 124
+  },
+  "financial_amounts": {
+    "unparseable_values": 0,
+    "negative_values": 27586,
+    "zero_values": 1098,
+    "median_amount": 35565000.0
+  }
+}

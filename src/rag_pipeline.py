@@ -28,9 +28,22 @@ class RAGPipeline:
         self.use_rag = use_rag
         self.model_name = model_name
         self.vector_store = VectorStore() if use_rag else None
-        
-        api_key = os.getenv("OPENAI_API_KEY", "")
-        self.client = OpenAI(api_key=api_key) if api_key else None
+
+        provider = (LLMConfig.provider or "").lower()
+        if provider == "grok":
+            api_key = os.getenv("GROK_API_KEY") or os.getenv("XAI_API_KEY") or os.getenv("GROQ_API_KEY") or os.getenv("OPENAI_API_KEY") or ""
+        elif provider == "groq":
+            api_key = os.getenv("GROQ_API_KEY") or os.getenv("GROK_API_KEY") or os.getenv("XAI_API_KEY") or os.getenv("OPENAI_API_KEY") or ""
+        else:
+            api_key = os.getenv("OPENAI_API_KEY") or os.getenv("GROK_API_KEY") or os.getenv("XAI_API_KEY") or os.getenv("GROQ_API_KEY") or ""
+        base_url = LLMConfig.base_url
+        if api_key and base_url:
+            self.client = OpenAI(api_key=api_key, base_url=base_url)
+        elif api_key:
+            self.client = OpenAI(api_key=api_key)
+        else:
+            self.client = None
+
         self.api_key_valid = bool(api_key and not api_key.startswith("mock_"))
 
     def format_retrieved_context(self, search_results: List[Dict[str, Any]], max_chars: int = 4000) -> str:
@@ -217,4 +230,5 @@ if __name__ == "__main__":
     print(f"RAG Enabled: {output['use_rag']}")
     print(f"Retrieved Records: {len(output['retrieved_docs'])}")
     print(f"Simulated: {output['is_simulated']}")
-    print(f"Response: {output['answer']}")
+    safe_answer = output["answer"].encode("ascii", "replace").decode("ascii")
+    print(f"Response: {safe_answer}")

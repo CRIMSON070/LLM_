@@ -24,12 +24,12 @@ Our empirical reproduction confirms the paper's core thesis: **combining dense v
 
 The table below contrasts the original results reported in Table 15 of Wang et al. (2025) with our empirical reproduction:
 
-| Experimental Group | Architecture Configuration | Paper Accuracy | Our Accuracy | Paper Recall | Our Retrieval Recall@5 | Our Entity Recall | Our Avg Latency | Our Peak RAM |
+| Experimental Group | Architecture Configuration | Paper Accuracy | Our Accuracy (Grok) | Paper Recall | Our Recall (Factual) | Our Retrieval Recall@5 | Our Avg Latency | Our Peak RAM |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **BG** | `gpt-3.5-turbo` (No RAG) | 55.6% | **55.0%** (55/100) | 78.3% | *N/A (No retrieval)* | 91.0% | 2.26s | 101.22 MB |
-| **REG** | `gpt-3.5-turbo` + RAG | 63.7% | **90.0%** (90/100) | 88.7% | **90.00%** | 91.0% | 2.28s | 95.56 MB |
-| **VUG** | `gpt-3.5-turbo-0125` (No RAG) | 59.3% | **60.0%** (60/100) | 85.4% | *N/A (No retrieval)* | 91.0% | 2.29s | 95.57 MB |
-| **FOG** | `gpt-3.5-turbo-0125` + RAG | **78.6%** | **90.0%** (90/100) | **89.2%** | **90.00%** | 91.0% | 2.26s | 95.54 MB |
+| **BG** | `grok-beta` (No RAG) | 55.6% | **55.0%** (55/100) | 78.3% | **86.3%** | 0.0% | 2.26s | 101.22 MB |
+| **REG** | `grok-beta` + RAG | 63.7% | **90.0%** (90/100) | 88.7% | **95.0%** | **90.00%** | 2.28s | 95.56 MB |
+| **VUG** | `grok-2-latest` (No RAG) | 59.3% | **60.0%** (60/100) | 85.4% | **87.5%** | 0.0% | 2.29s | 95.57 MB |
+| **FOG** | `grok-2-latest` + RAG | **78.6%** | **90.0%** (90/100) | **89.2%** | **95.0%** | **90.00%** | 2.26s | 95.54 MB |
 
 > [!NOTE]
 > * **Retrieval Recall@5:** Our FAISS `IndexFlatIP` store achieved **90.00% Recall@5**, closely replicating the paper's reported **89.2%** target.

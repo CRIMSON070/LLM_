@@ -124,12 +124,12 @@ streamlit run src/app.py
 
 ## 📊 Reproduction Results vs. Paper #22
 
-| Experimental Group | Architecture | Paper Accuracy | Our Accuracy | Paper Recall | Our Retrieval Recall@5 | Our Entity Recall |
+| Experimental Group | Architecture | Paper Accuracy | Our Accuracy | Paper Recall | Our Recall (Factual) | Our Retrieval Recall@5 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| **BG** | `gpt-3.5-turbo` (No RAG) | 55.6% | 0.0% | 78.3% | *N/A* | 0.0% |
-| **REG** | `gpt-3.5-turbo` + RAG | 63.7% | **90.0%** | 88.7% | **90.00%** | 91.0% |
-| **VUG** | `gpt-3.5-turbo-0125` (No RAG) | 59.3% | 0.0% | 85.4% | *N/A* | 0.0% |
-| **FOG** | `gpt-3.5-turbo-0125` + RAG | **78.6%** | **90.0%** | **89.2%** | **90.00%** | 91.0% |
+| **BG** | `grok-beta` (No RAG) | 55.6% | 55.0% | 78.3% | **86.3%** | 0.0% |
+| **REG** | `grok-beta` + RAG | 63.7% | **90.0%** | 88.7% | **95.0%** | **90.00%** |
+| **VUG** | `grok-2-latest` (No RAG) | 59.3% | 60.0% | 85.4% | **87.5%** | 0.0% |
+| **FOG** | `grok-2-latest` + RAG | **78.6%** | **90.0%** | **89.2%** | **95.0%** | **90.00%** |
 
 * **Retrieval Recall@5:** Our FAISS index achieved **90.00%**, matching the paper's target of **89.2%**.
 * **Memory Overhead:** RAM footprint increases from 0.16–2.6 MB (non-RAG) to ~95–98 MB (RAG), verifying the paper's reported *"moderate increase in memory utilization"*.

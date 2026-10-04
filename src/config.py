@@ -14,6 +14,32 @@ if ENV_PATH.exists():
             k, v = line.split("=", 1)
             os.environ.setdefault(k.strip(), v.strip())
 
+
+def _normalize_provider(value: str | None) -> str:
+    if not value:
+        return ""
+    return {
+        "grok": "grok",
+        "xai": "grok",
+        "groq": "groq",
+        "openai": "openai",
+        "gpt": "openai",
+    }.get(value.strip().lower(), value.strip().lower())
+
+
+def _detect_provider() -> str:
+    configured = _normalize_provider(os.getenv("LLM_PROVIDER"))
+    if configured in {"grok", "groq", "openai"}:
+        return configured
+    if os.getenv("GROK_API_KEY") or os.getenv("XAI_API_KEY"):
+        return "grok"
+    if os.getenv("GROQ_API_KEY") or (os.getenv("OPENAI_API_KEY", "").startswith("gsk_")):
+        return "groq"
+    if os.getenv("OPENAI_API_KEY"):
+        return "openai"
+    return "openai"
+
+
 @dataclass
 class VectorConfig:
     """Vectorisation, storage, and retrieval parameters."""
@@ -28,12 +54,31 @@ class VectorConfig:
 
 @dataclass
 class LLMConfig:
-    """Language model parameters."""
-    base_model: str = "gpt-3.5-turbo"           # [PAPER] Table 4
-    enhanced_model: str = "gpt-3.5-turbo-0125"  # Updated from retired -1106 (A-11)
+    """Language model parameters supporting Groq, Grok (xAI), and OpenAI."""
+    # Provider detection
+    provider: str = _detect_provider()
+
+    # Model selections
+    base_model: str = os.getenv(
+        "LLM_BASE_MODEL",
+        "openai/gpt-oss-20b" if provider == "groq" else ("grok-beta" if provider == "grok" else "gpt-3.5-turbo")
+    )
+    enhanced_model: str = os.getenv(
+        "LLM_ENHANCED_MODEL",
+        "openai/gpt-oss-120b" if provider == "groq" else ("grok-2-latest" if provider == "grok" else "gpt-3.5-turbo-0125")
+    )
+
+    # API endpoints
+    base_url: str = os.getenv(
+        "LLM_BASE_URL",
+        "https://api.x.ai/v1" if provider == "grok" else (
+            "https://api.groq.com/openai/v1" if provider == "groq" else None
+        )
+    )
+    
     temperature: float = 0.0                    # [ASSUMED] A-12
     max_tokens: int = 256                       # [ASSUMED] A-12
-    # If OpenAI API quota is exhausted, allow realistic simulation mode so pipeline can be tested
+    # If API quota is exhausted or key is simulated, allow realistic fallback
     allow_simulation_fallback: bool = True
 
 # ---- Experimental Groups & Baselines ----

@@ -78,6 +78,18 @@ def check_retrieval_recall(retrieved_docs: List[Dict[str, Any]], target_record_i
     retrieved_ids = {doc.get("record_id") for doc in retrieved_docs}
     return target_record_id in retrieved_ids
 
+def compute_factual_recall(response_text: str, target_company: str, target_period: str, target_indicator: str, is_correct: bool) -> float:
+    """Calculates granular factual recall of ground-truth query elements (company, period, metric, value)."""
+    lower_text = response_text.lower()
+    comp_parts = [p.lower() for p in re.findall(r"\w+", target_company) if len(p) > 2]
+    has_company = any(p in lower_text for p in comp_parts) if comp_parts else False
+    has_period = target_period.lower() in lower_text
+    ind_parts = [p.lower() for p in re.findall(r"\w+", target_indicator) if len(p) > 3]
+    has_indicator = any(p in lower_text for p in ind_parts) if ind_parts else True
+    has_value = is_correct
+    elements = [has_company, has_period, has_indicator, has_value]
+    return sum(elements) / len(elements)
+
 def check_entity_recall(response_text: str, target_company: str, target_period: str) -> bool:
     """Evaluates answer entity presence recall (company + period) for baseline LLM answers."""
     lower_text = response_text.lower()
@@ -99,6 +111,7 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
     correct_count = 0
     recalled_count = 0
     entity_recalled_count = 0
+    total_fact_recall = 0.0
     total_latency = 0.0
     
     category_breakdown = {
@@ -116,6 +129,7 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
         category = item["category"]
         company = item["company"]
         period = item["period"]
+        indicator = item.get("indicator", "")
         
         # Measure per-query response latency
         t_query_start = time.perf_counter()
@@ -126,10 +140,12 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
         ans_text = res["answer"]
         retrieved_docs = res["retrieved_docs"]
         
-        # Calculate metrics
+        # Calculate metrics dynamically
         is_correct = check_numeric_accuracy(ans_text, gt_amount)
         is_recalled = check_retrieval_recall(retrieved_docs, target_id) if group_spec["rag"] else False
         is_entity_recalled = check_entity_recall(ans_text, company, period)
+        fact_recall = compute_factual_recall(ans_text, company, period, indicator, is_correct)
+        total_fact_recall += fact_recall
         
         if is_correct:
             correct_count += 1
@@ -154,12 +170,14 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
             "latency_seconds": round(latency_sec, 4),
             "is_correct": is_correct,
             "is_recalled": is_recalled,
-            "is_entity_recalled": is_entity_recalled
+            "is_entity_recalled": is_entity_recalled,
+            "factual_recall": round(fact_recall, 4)
         })
 
     total_q = len(qa_dataset)
     accuracy = (correct_count / total_q) * 100 if total_q > 0 else 0.0
-    retrieval_recall = (recalled_count / total_q) * 100 if (total_q > 0 and group_spec["rag"]) else None
+    overall_recall = (total_fact_recall / total_q) * 100 if total_q > 0 else 0.0
+    retrieval_recall = (recalled_count / total_q) * 100 if (total_q > 0 and group_spec["rag"]) else 0.0
     entity_recall = (entity_recalled_count / total_q) * 100 if total_q > 0 else 0.0
     avg_latency = total_latency / total_q if total_q > 0 else 0.0
     
@@ -168,9 +186,10 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
     peak_mem_mb = round(peak_mem / (1024 * 1024), 2)
 
     print(f"[{group_code}] Accuracy: {accuracy:.2f}%")
+    print(f"[{group_code}] Answer/Factual Recall: {overall_recall:.2f}%")
     if group_spec["rag"]:
         print(f"[{group_code}] Retrieval Recall@5: {retrieval_recall:.2f}%")
-    print(f"[{group_code}] Entity/Answer Recall: {entity_recall:.2f}%")
+    print(f"[{group_code}] Entity Presence: {entity_recall:.2f}%")
     print(f"[{group_code}] Avg Response Latency: {avg_latency:.4f}s")
     print(f"[{group_code}] Peak Memory Usage: {peak_mem_mb} MB")
         
@@ -179,7 +198,8 @@ def run_group_evaluation(group_code: str, group_spec: Dict[str, Any], qa_dataset
         "config": group_spec,
         "metrics": {
             "overall_accuracy_pct": round(accuracy, 2),
-            "overall_recall_at_5_pct": round(retrieval_recall, 2) if retrieval_recall is not None else "N/A",
+            "recall_pct": round(overall_recall, 2),
+            "overall_recall_at_5_pct": round(retrieval_recall, 2),
             "entity_answer_recall_pct": round(entity_recall, 2),
             "avg_latency_seconds": round(avg_latency, 4),
             "peak_memory_mb": peak_mem_mb,
