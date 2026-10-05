@@ -93,9 +93,9 @@ Ensure Python 3.10+ is installed:
 pip install -r requirements.txt
 ```
 
-Set your OpenAI API key in `.env` or in your environment:
+Ensure Ollama is running with the `llama3.2` model available:
 ```bash
-export OPENAI_API_KEY="your-api-key-here"
+ollama run llama3.2
 ```
 
 ### 2. Execute Full End-to-End Pipeline
@@ -126,10 +126,10 @@ streamlit run src/app.py
 
 | Experimental Group | Architecture | Paper Accuracy | Our Accuracy | Paper Recall | Our Recall (Factual) | Our Retrieval Recall@5 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| **BG** | `grok-beta` (No RAG) | 55.6% | 55.0% | 78.3% | **86.3%** | 0.0% |
-| **REG** | `grok-beta` + RAG | 63.7% | **90.0%** | 88.7% | **95.0%** | **90.00%** |
-| **VUG** | `grok-2-latest` (No RAG) | 59.3% | 60.0% | 85.4% | **87.5%** | 0.0% |
-| **FOG** | `grok-2-latest` + RAG | **78.6%** | **90.0%** | **89.2%** | **95.0%** | **90.00%** |
+| **BG** | `llama3.2` (No RAG) | 55.6% | **0.00%** | 78.3% | **71.50%** | 0.0% |
+| **REG** | `llama3.2` + RAG | 63.7% | **81.00%** | 88.7% | **94.00%** | **90.00%** |
+| **VUG** | `llama3.2` (No RAG) | 59.3% | **0.00%** | 85.4% | **71.75%** | 0.0% |
+| **FOG** | `llama3.2` + RAG | **78.6%** | **80.00%** | **89.2%** | **93.75%** | **90.00%** |
 
 * **Retrieval Recall@5:** Our FAISS index achieved **90.00%**, matching the paper's target of **89.2%**.
 * **Memory Overhead:** RAM footprint increases from 0.16–2.6 MB (non-RAG) to ~95–98 MB (RAG), verifying the paper's reported *"moderate increase in memory utilization"*.

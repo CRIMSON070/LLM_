@@ -8,3 +8,4 @@ data/processed/*.csv
 data/processed/*.npy
 data/processed/*.index
 data/processed/*.parquet
+.model_cache/

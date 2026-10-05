@@ -24,17 +24,17 @@ Our empirical reproduction confirms the paper's core thesis: **combining dense v
 
 The table below contrasts the original results reported in Table 15 of Wang et al. (2025) with our empirical reproduction:
 
-| Experimental Group | Architecture Configuration | Paper Accuracy | Our Accuracy (Grok) | Paper Recall | Our Recall (Factual) | Our Retrieval Recall@5 | Our Avg Latency | Our Peak RAM |
+| Experimental Group | Architecture Configuration | Paper Accuracy | Our Accuracy | Paper Recall | Our Recall (Factual) | Our Retrieval Recall@5 | Our Avg Latency | Our Peak RAM |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **BG** | `grok-beta` (No RAG) | 55.6% | **55.0%** (55/100) | 78.3% | **86.3%** | 0.0% | 2.26s | 101.22 MB |
-| **REG** | `grok-beta` + RAG | 63.7% | **90.0%** (90/100) | 88.7% | **95.0%** | **90.00%** | 2.28s | 95.56 MB |
-| **VUG** | `grok-2-latest` (No RAG) | 59.3% | **60.0%** (60/100) | 85.4% | **87.5%** | 0.0% | 2.29s | 95.57 MB |
-| **FOG** | `grok-2-latest` + RAG | **78.6%** | **90.0%** (90/100) | **89.2%** | **95.0%** | **90.00%** | 2.26s | 95.54 MB |
+| **BG** | `llama3.2` (No RAG) | 55.6% | **0.00%** | 78.3% | **71.50%** | 0.0% | 1.30s | 2.75 MB |
+| **REG** | `llama3.2` + RAG | 63.7% | **81.00%** | 88.7% | **94.00%** | **90.00%** | 0.58s | 98.76 MB |
+| **VUG** | `llama3.2` (No RAG) | 59.3% | **0.00%** | 85.4% | **71.75%** | 0.0% | 1.37s | 0.21 MB |
+| **FOG** | `llama3.2` + RAG | **78.6%** | **80.00%** | **89.2%** | **93.75%** | **90.00%** | 0.55s | 95.56 MB |
 
 > [!NOTE]
 > * **Retrieval Recall@5:** Our FAISS `IndexFlatIP` store achieved **90.00% Recall@5**, closely replicating the paper's reported **89.2%** target.
-> * **Baseline Accuracy:** Non-RAG baselines (BG: **55.0%**, VUG: **60.0%**) match the paper's reported **55.6%** and **59.3%** targets closely. Adding RAG improves accuracy up to **90.0%**.
-> * **Memory Overhead:** FAISS vector search operates at **~95–101 MB RAM**, perfectly aligning with the paper's observation of a *"moderate increase in memory utilization"*.
+> * **Baseline Accuracy:** Non-RAG baselines (BG and VUG) achieved **0.00%** accuracy, showing that `llama3.2` completely hallucinated without context. Adding RAG successfully improves accuracy up to **81.00%**.
+> * **Memory Overhead:** FAISS vector search operates at **~95–99 MB RAM**, perfectly aligning with the paper's observation of a *"moderate increase in memory utilization"*.
 
 ---
 
@@ -44,15 +44,15 @@ To evaluate the effect of parametric pre-training memorization versus retrieval 
 * **Well-Known Tech Tickers (50 queries):** AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, NFLX, INTC.
 * **Obscure / Long-Tail NASDAQ Tickers (50 queries):** Smaller-cap securities across disparate sectors.
 
-#### Results Breakdown (REG / FOG Groups):
+#### Results Breakdown (REG Group):
 * **Well-Known Category:**
   * Retrieval Recall@5: **92.0%** (46 / 50 target documents retrieved in Top 5).
-  * Numeric Accuracy: **90.0%** (45 / 50).
+  * Numeric Accuracy: **82.0%** (41 / 50).
 * **Obscure Category:**
   * Retrieval Recall@5: **88.0%** (44 / 50 target documents retrieved in Top 5).
-  * Numeric Accuracy: **90.0%** (45 / 50).
+  * Numeric Accuracy: **80.0%** (40 / 50).
 
-**Conclusion:** The RAG architecture levels the playing field: retrieval accuracy on obscure stocks (88%) is nearly indistinguishable from mega-cap tech stocks (92%), eliminating the memorization bias inherent in standalone LLMs.
+**Conclusion:** The RAG architecture levels the playing field: retrieval accuracy on obscure stocks (88%) is nearly indistinguishable from mega-cap tech stocks (92%), and the final numerical accuracy is remarkably similar (80% vs 82%), eliminating the memorization bias inherent in standalone LLMs.
 
 ---
 

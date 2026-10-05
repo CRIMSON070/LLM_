@@ -1,0 +1,2156 @@
+# Companies in Dataset
+
+Total unique companies: 2152
+
+- 1 800 FLOWERS COM INC
+- 1347 Property Insurance Holdings, Inc.
+- 1ST SOURCE CORP
+- 2U, Inc.
+- 3D MAKERJET, INC.
+- 8point3 Energy Partners LP
+- A-Mark Precious Metals, Inc.
+- AAON INC
+- ABAXIS INC
+- ABEONA THERAPEUTICS INC.
+- ABIOMED INC
+- ABRAXAS PETROLEUM CORP
+- ACACIA RESEARCH CORP
+- ACADIA PHARMACEUTICALS INC
+- ACCELERON PHARMA INC
+- ACCESS NATIONAL CORP
+- ACELRX PHARMACEUTICALS INC
+- ACETO CORP
+- ACHILLION PHARMACEUTICALS INC
+- ACI WORLDWIDE, INC.
+- ACNB CORP
+- ACORDA THERAPEUTICS INC
+- ACXIOM CORP
+- ADDVANTAGE TECHNOLOGIES GROUP INC
+- ADESTO TECHNOLOGIES Corp
+- ADMA BIOLOGICS, INC.
+- ADTRAN INC
+- ADURO BIOTECH, INC.
+- ADVANCED ENERGY INDUSTRIES INC
+- ADVANCED MICRO DEVICES INC
+- AEHR TEST SYSTEMS
+- AERIE PHARMACEUTICALS INC
+- AETHLON MEDICAL INC
+- AGENUS INC
+- AGILE THERAPEUTICS INC
+- AGILYSYS INC
+- AGIOS PHARMACEUTICALS INC
+- AGNC Investment Corp.
+- AIR METHODS CORP
+- AIR T INC
+- AIRGAIN INC
+- AKAMAI TECHNOLOGIES INC
+- AKORN INC
+- ALASKA COMMUNICATIONS SYSTEMS GROUP INC
+- ALBANY MOLECULAR RESEARCH INC
+- ALBIREO PHARMA, INC.
+- ALCO, INC.
+- ALDER BIOPHARMACEUTICALS INC
+- ALEXION PHARMACEUTICALS INC
+- ALICO INC
+- ALIGN TECHNOLOGY INC
+- ALIMERA SCIENCES INC
+- ALJ REGIONAL HOLDINGS INC
+- ALLIED HEALTHCARE PRODUCTS INC
+- ALLIED MOTION TECHNOLOGIES INC
+- ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.
+- ALMOST FAMILY INC
+- ALNYLAM PHARMACEUTICALS, INC.
+- ALPHA & OMEGA SEMICONDUCTOR Ltd
+- AMAG PHARMACEUTICALS INC.
+- AMARIN CORP PLC\UK
+- AMAZON COM INC
+- AMBAC FINANCIAL GROUP INC
+- AMBARELLA INC
+- AMC Networks Inc.
+- AMEDICA Corp
+- AMEDISYS INC
+- AMERICA FIRST MULTIFAMILY INVESTORS, L.P.
+- AMERICAN NATIONAL BANKSHARES INC.
+- AMERICAN NATIONAL INSURANCE CO /TX/
+- AMERICAN OUTDOOR BRANDS CORP
+- AMERICAN PUBLIC EDUCATION INC
+- AMERICAN RIVER BANKSHARES
+- AMERICAN SOFTWARE INC
+- AMERICAN SUPERCONDUCTOR CORP /DE/
+- AMERICAN WOODMARK CORP
+- AMERICAS CARMART INC
+- AMERISAFE INC
+- AMERISERV FINANCIAL INC /PA/
+- AMES NATIONAL CORP
+- AMGEN INC
+- AMICUS THERAPEUTICS INC
+- AMKOR TECHNOLOGY, INC.
+- AMTECH SYSTEMS INC
+- AMYRIS, INC.
+- ANALOG DEVICES INC
+- ANALOGIC CORP
+- ANAPTYSBIO INC
+- ANAVEX LIFE SCIENCES CORP.
+- ANDES 7 INC.
+- ANGIODYNAMICS INC
+- ANI PHARMACEUTICALS INC
+- ANSYS INC
+- ANTARES PHARMA, INC.
+- AOXIN TIANLI GROUP, INC.
+- APOGEE ENTERPRISES, INC.
+- APPFOLIO INC
+- APPLE INC
+- APPLIANCE RECYCLING CENTERS OF AMERICA INC /MN
+- APPLIED DNA SCIENCES INC
+- APPLIED GENETIC TECHNOLOGIES CORP
+- APPLIED OPTOELECTRONICS, INC.
+- APRICUS BIOSCIENCES, INC.
+- AQUINOX PHARMACEUTICALS, INC
+- ARADIGM CORP
+- ARATANA THERAPEUTICS, INC.
+- ARC Group Worldwide, Inc.
+- ARCA biopharma, Inc.
+- ARCH CAPITAL GROUP LTD.
+- ARDELYX, INC.
+- ARENA PHARMACEUTICALS INC
+- ARGOS THERAPEUTICS INC
+- ARI NETWORK SERVICES INC /WI
+- ARK RESTAURANTS CORP
+- AROTECH CORP
+- ARQULE INC
+- ARRAY BIOPHARMA INC
+- ARRIS GROUP INC
+- ARRIS International plc
+- ARROW FINANCIAL CORP
+- ARROWHEAD PHARMACEUTICALS, INC.
+- ARTESIAN RESOURCES CORP
+- ARTS WAY MANUFACTURING CO INC
+- ASB Bancorp Inc
+- ASSEMBLY BIOSCIENCES, INC.
+- ASTA FUNDING INC
+- ASTEC INDUSTRIES INC
+- ASTRONICS CORP
+- ASTROTECH Corp
+- ASURE SOFTWARE INC
+- ATHENAHEALTH INC
+- ATHERSYS, INC / NEW
+- ATLANTIC AMERICAN CORP
+- ATLAS AIR WORLDWIDE HOLDINGS INC
+- ATN International, Inc.
+- ATOSSA GENETICS INC
+- ATRION CORP
+- AUBURN NATIONAL BANCORPORATION, INC
+- AUTOBYTEL INC
+- AUTODESK INC
+- AUTOMATIC DATA PROCESSING INC
+- AVADEL PHARMACEUTICALS PLC
+- AVEO PHARMACEUTICALS INC
+- AVIAT NETWORKS, INC.
+- AVID TECHNOLOGY, INC.
+- AVIS BUDGET GROUP, INC.
+- AWARE INC /MA/
+- AXCELIS TECHNOLOGIES INC
+- AXT INC
+- Acacia Communications, Inc.
+- Acadia Healthcare Company, Inc.
+- Accelerate Diagnostics, Inc
+- Achaogen Inc
+- Aclaris Therapeutics, Inc.
+- Activision Blizzard, Inc.
+- Actua Corp
+- Adamas Pharmaceuticals Inc
+- Adamis Pharmaceuticals Corp
+- Adaptimmune Therapeutics PLC
+- Addus HomeCare Corp
+- Advanced Emissions Solutions, Inc.
+- Advaxis, Inc.
+- Adverum Biotechnologies, Inc.
+- Aegion Corp
+- Aeglea BioTherapeutics, Inc.
+- AeroVironment Inc
+- Aevi Genomic Medicine, Inc.
+- AgroFresh Solutions, Inc.
+- Aimmune Therapeutics, Inc.
+- Air Transport Services Group, Inc.
+- Akari Therapeutics Plc
+- Akebia Therapeutics, Inc.
+- Akers Biosciences, Inc.
+- Akoustis Technologies, Inc.
+- Alarm.com Holdings, Inc.
+- Aldeyra Therapeutics, Inc.
+- Alkermes plc.
+- Allegiance Bancshares, Inc.
+- Alliance HealthCare Services, Inc
+- Alliance Holdings GP, L.P.
+- Alliance MMA, Inc.
+- Alliqua BioMedical, Inc.
+- Alphabet Inc.
+- Alphatec Holdings, Inc.
+- Altisource Portfolio Solutions S.A.
+- Altra Industrial Motion Corp.
+- American Airlines Group Inc.
+- American Electric Technologies Inc
+- American Railcar Industries, Inc.
+- Ameris Bancorp
+- Amphastar Pharmaceuticals, Inc.
+- Amplify Energy Corp
+- Amtrust Financial Services, Inc.
+- Anchor Bancorp
+- Andersons, Inc.
+- Andina Acquisition Corp. II
+- Anika Therapeutics, Inc.
+- Anthera Pharmaceuticals Inc
+- Apollo Endosurgery, Inc.
+- Apollo Medical Holdings, Inc.
+- Approach Resources Inc
+- Apptio Inc
+- Aptevo Therapeutics Inc.
+- Aqua Metals, Inc.
+- AquaBounty Technologies, Inc.
+- Aralez Pharmaceuticals Inc.
+- Arbutus Biopharma Corp
+- Arcadia Biosciences, Inc.
+- Archrock Partners, L.P.
+- Argo Group International Holdings, Ltd.
+- Ascena Retail Group, Inc.
+- Ascent Capital Group, Inc.
+- AstroNova, Inc.
+- Atara Biotherapeutics, Inc.
+- Atlantic Alliance Partnership Corp.
+- Atlantic Capital Bancshares, Inc.
+- Atlantic Coast Financial CORP
+- Atlanticus Holdings Corp
+- Atlas Financial Holdings, Inc.
+- Atomera Inc
+- AtriCure, Inc.
+- Audentes Therapeutics, Inc.
+- AveXis, Inc.
+- Avinger Inc
+- Aviragen Therapeutics, Inc.
+- Avista Healthcare Public Acquisition Corp.
+- Axar Acquisition Corp.
+- AxoGen, Inc.
+- Axsome Therapeutics, Inc.
+- AzurRx BioPharma, Inc.
+- B. Riley Financial, Inc.
+- B/E AEROSPACE INC
+- BALCHEM CORP
+- BALDWIN & LYONS INC
+- BANCFIRST CORP /OK/
+- BANK MUTUAL CORP
+- BANK OF SOUTH CAROLINA CORP
+- BANK OF THE JAMES FINANCIAL GROUP INC
+- BANK OF THE OZARKS INC
+- BANNER CORP
+- BARINGTON/HILCO ACQUISITION CORP.
+- BARRETT BUSINESS SERVICES INC
+- BASSETT FURNITURE INDUSTRIES INC
+- BAY BANCORP, INC.
+- BEACON ROOFING SUPPLY INC
+- BEAR STATE FINANCIAL, INC.
+- BEASLEY BROADCAST GROUP INC
+- BED BATH & BEYOND INC
+- BELLICUM PHARMACEUTICALS, INC
+- BGC Partners, Inc.
+- BIG 5 SPORTING GOODS Corp
+- BIO-PATH HOLDINGS INC
+- BIO-TECHNE Corp
+- BIOANALYTICAL SYSTEMS INC
+- BIOCEPT INC
+- BIOCRYST PHARMACEUTICALS INC
+- BIODELIVERY SCIENCES INTERNATIONAL INC
+- BIOGEN INC.
+- BIOLASE, INC
+- BIOLIFE SOLUTIONS INC
+- BIOMARIN PHARMACEUTICAL INC
+- BIOMERICA INC
+- BIOSPECIFICS TECHNOLOGIES CORP
+- BJs RESTAURANTS INC
+- BLACK BOX CORP
+- BLACKBAUD INC
+- BLACKHAWK NETWORK HOLDINGS, INC
+- BLACKLINE, INC.
+- BLUCORA, INC.
+- BMC STOCK HOLDINGS, INC.
+- BNC BANCORP
+- BOB EVANS FARMS INC
+- BOINGO WIRELESS INC
+- BOLT TECHNOLOGY CORP
+- BOSTON PRIVATE FINANCIAL HOLDINGS INC
+- BOTTOMLINE TECHNOLOGIES INC /DE/
+- BOULEVARD ACQUISITION CORP. II
+- BRAINSTORM CELL THERAPEUTICS INC.
+- BRIDGE BANCORP INC
+- BRIDGFORD FOODS CORP
+- BRIGHTCOVE INC
+- BROADSOFT, INC.
+- BROADVISION INC
+- BROADWIND ENERGY, INC.
+- BROCADE COMMUNICATIONS SYSTEMS INC
+- BROOKLINE BANCORP INC
+- BROOKS AUTOMATION INC
+- BRUKER CORP
+- BRYN MAWR BANK CORP
+- BSB Bancorp, Inc.
+- BSQUARE CORP /WA
+- BUFFALO WILD WINGS INC
+- Bancorp 34, Inc.
+- Bank of Commerce Holdings
+- Bank of Marin Bancorp
+- BankFinancial CORP
+- Bankwell Financial Group, Inc.
+- Bazaarvoice Inc
+- BeiGene, Ltd.
+- Bellerophon Therapeutics, Inc.
+- Beneficial Bancorp Inc.
+- Benefitfocus,Inc.
+- BioScrip, Inc.
+- BioTelemetry, Inc.
+- Biolog, Inc
+- Bioptix, Inc.
+- Biostage, Inc.
+- Biostar Pharmaceuticals, Inc.
+- Bioverativ Inc.
+- Black Diamond, Inc.
+- Blue Bird Corp
+- Blue Buffalo Pet Products, Inc.
+- Blue Hills Bancorp, Inc.
+- Blueknight Energy Partners, L.P.
+- Blueprint Medicines Corp
+- BofI Holding, Inc.
+- Bojangles', Inc.
+- Boxlight Corp
+- Bravo Brio Restaurant Group, Inc.
+- Bridgeline Digital, Inc.
+- Broadcom Ltd
+- Builders FirstSource, Inc.
+- C & F FINANCIAL CORP
+- C H ROBINSON WORLDWIDE INC
+- CA, INC.
+- CABOT MICROELECTRONICS CORP
+- CADENCE DESIGN SYSTEMS INC
+- CADIZ INC
+- CAESARS ENTERTAINMENT Corp
+- CAFEPRESS INC.
+- CAL-MAINE FOODS INC
+- CALAVO GROWERS INC
+- CALIFORNIA FIRST NATIONAL BANCORP
+- CALLIDUS SOFTWARE INC
+- CAMBIUM LEARNING GROUP, INC.
+- CAMDEN NATIONAL CORP
+- CANCER GENETICS, INC
+- CANTERBURY PARK HOLDING CORP
+- CAPELLA EDUCATION CO
+- CAPITAL CITY BANK GROUP INC
+- CAPRICOR THERAPEUTICS, INC.
+- CAPSTONE TURBINE Corp
+- CARDINAL FINANCIAL CORP
+- CARDTRONICS INC
+- CAREER EDUCATION CORP
+- CAROLINA FINANCIAL CORP
+- CARRIZO OIL & GAS INC
+- CARROLS RESTAURANT GROUP, INC.
+- CARVER BANCORP INC
+- CAS MEDICAL SYSTEMS INC
+- CASCADE BANCORP
+- CASELLA WASTE SYSTEMS INC
+- CASEYS GENERAL STORES INC
+- CASI Pharmaceuticals, Inc.
+- CASS INFORMATION SYSTEMS INC
+- CATABASIS PHARMACEUTICALS INC
+- CATALYST BIOSCIENCES, INC.
+- CATALYST PHARMACEUTICALS, INC.
+- CATHAY GENERAL BANCORP
+- CAVCO INDUSTRIES INC
+- CAVIUM, INC.
+- CB Financial Services, Inc.
+- CBAK Energy Technology, Inc.
+- CBOE Holdings, Inc.
+- CDK Global, Inc.
+- CDW Corp
+- CECO ENVIRONMENTAL CORP
+- CEMPRA, INC.
+- CEMTREX INC
+- CENTRAL EUROPEAN MEDIA ENTERPRISES LTD
+- CENTRAL FEDERAL CORP
+- CENTRAL GARDEN & PET CO
+- CENTRAL VALLEY COMMUNITY BANCORP
+- CENTRUE FINANCIAL CORP
+- CENTURY BANCORP INC
+- CENTURY CASINOS INC /CO/
+- CERUS CORP
+- CESCA THERAPEUTICS INC.
+- CEVA INC
+- CF Corp
+- CHAMPIONS ONCOLOGY, INC.
+- CHARLES & COLVARD LTD
+- CHART INDUSTRIES INC
+- CHARTER COMMUNICATIONS, INC. /MO/
+- CHARTER FINANCIAL CORP
+- CHEMBIO DIAGNOSTICS, INC.
+- CHEMICAL FINANCIAL CORP
+- CHEMUNG FINANCIAL CORP
+- CHEROKEE INC
+- CHERUBIM INTERESTS, INC.
+- CHIASMA, INC
+- CHIMERIX INC
+- CHINA AUTOMOTIVE SYSTEMS INC
+- CHINA HGS REAL ESTATE INC.
+- CHINA JO-JO DRUGSTORES, INC.
+- CHINA RECYCLING ENERGY CORP
+- CHS INC
+- CIM Commercial Trust Corp
+- CIMPRESS N.V.
+- CINCINNATI FINANCIAL CORP
+- CINTAS CORP
+- CIRRUS LOGIC INC
+- CISCO SYSTEMS, INC.
+- CITIZENS & NORTHERN CORP
+- CITIZENS FIRST CORP
+- CITIZENS HOLDING CO /MS/
+- CITRIX SYSTEMS INC
+- CITY HOLDING CO
+- CIVISTA BANCSHARES, INC.
+- CLEAN DIESEL TECHNOLOGIES INC
+- CLEARONE INC
+- CLEARSIGN COMBUSTION CORP
+- CLEVELAND BIOLABS INC
+- CME GROUP INC.
+- CNB FINANCIAL CORP/PA
+- COBIZ FINANCIAL INC
+- COCA COLA BOTTLING CO CONSOLIDATED /DE/
+- CODEXIS INC
+- CODORUS VALLEY BANCORP INC
+- COFFEE HOLDING CO INC
+- COGENT COMMUNICATIONS HOLDINGS, INC.
+- COGNEX CORP
+- COGNIZANT TECHNOLOGY SOLUTIONS CORP
+- COHERENT INC
+- COHU INC
+- COLLECTORS UNIVERSE INC
+- COLLEGIUM PHARMACEUTICAL, INC
+- COLONY BANKCORP INC
+- COLUMBIA BANKING SYSTEM INC
+- COLUMBUS MCKINNON CORP
+- COMCAST CORP
+- COMMUNICATIONS SYSTEMS INC
+- COMMUNITY FINANCIAL CORP /MD/
+- COMMUNITY HEALTH SYSTEMS INC
+- COMMUNITY TRUST BANCORP INC /KY/
+- COMMUNITY WEST BANCSHARES /
+- COMMVAULT SYSTEMS INC
+- COMPUTER PROGRAMS & SYSTEMS INC
+- COMPUTER TASK GROUP INC
+- COMTECH TELECOMMUNICATIONS CORP /DE/
+- CONCERT PHARMACEUTICALS, INC.
+- CONCURRENT COMPUTER CORP/DE
+- CONDOR HOSPITALITY TRUST, INC.
+- CONMED CORP
+- CONNECTICUT WATER SERVICE INC / CT
+- CONNECTURE INC
+- CONSOLIDATED WATER CO LTD
+- CONSUMER PORTFOLIO SERVICES INC
+- CONTRAFECT Corp
+- CONTROL4 CORP
+- COPART INC
+- COPsync, Inc.
+- CORCEPT THERAPEUTICS INC
+- CORVEL CORP
+- COSTAR GROUP INC
+- COSTCO WHOLESALE CORP /NEW
+- COUNTERPATH CORP
+- COVENANT TRANSPORTATION GROUP INC
+- COWEN GROUP, INC.
+- CPI Card Group Inc.
+- CRA INTERNATIONAL, INC.
+- CRACKER BARREL OLD COUNTRY STORE, INC
+- CRAFT BREW ALLIANCE, INC.
+- CRAY INC
+- CREDIT ACCEPTANCE CORP
+- CREE INC
+- CRISPR Therapeutics AG
+- CROSS COUNTRY HEALTHCARE INC
+- CROSSROADS SYSTEMS INC
+- CROWN CRAFTS INC
+- CSG SYSTEMS INTERNATIONAL INC
+- CSI Compressco LP
+- CSW INDUSTRIALS, INC.
+- CSX CORP
+- CTI BIOPHARMA CORP
+- CTI INDUSTRIES CORP
+- CU Bancorp
+- CUI Global, Inc.
+- CUMBERLAND PHARMACEUTICALS INC
+- CUMULUS MEDIA INC
+- CURIS INC
+- CUTERA INC
+- CVB FINANCIAL CORP
+- CVD EQUIPMENT CORP
+- CYANOTECH CORP
+- CYBEROPTICS CORP
+- CYPRESS SEMICONDUCTOR CORP /DE/
+- CYTOKINETICS INC
+- CYTORI THERAPEUTICS, INC.
+- CYTRX CORP
+- Caesars Acquisition Co
+- Caesars Entertainment Resort Properties, LLC
+- CalAmp Corp.
+- Caladrius Biosciences, Inc.
+- Calithera Biosciences, Inc.
+- Calumet Specialty Products Partners, L.P.
+- Canterbury Park Holding Corp
+- CapStar Financial Holdings, Inc.
+- Capella Healthcare, Inc.
+- Capital Bank Financial Corp.
+- Capitol Acquisition Corp. III
+- Capitol Federal Financial Inc
+- Capnia, Inc.
+- Cara Therapeutics, Inc.
+- Carbonite Inc
+- CardConnect Corp.
+- Cardiovascular Systems Inc
+- Cardtronics plc
+- CareDx, Inc.
+- CareTrust REIT, Inc.
+- Carolina Trust BancShares, Inc.
+- Cartesian, Inc.
+- Cascadian Therapeutics, Inc.
+- Celldex Therapeutics, Inc.
+- Cellectar Biosciences, Inc.
+- Cellular Biomedicine Group, Inc.
+- Celsion CORP
+- Centennial Resource Development, Inc.
+- CenterState Banks, Inc.
+- Cerecor Inc.
+- Cerulean Pharma Inc.
+- Chanticleer Holdings, Inc.
+- Chefs' Warehouse, Inc.
+- ChemoCentryx, Inc.
+- China Advanced Construction Materials Group, Inc
+- China Auto Logistics Inc
+- China Biologic Products Holdings, Inc.
+- China Commercial Credit Inc
+- China Lending Corp
+- ChinaNet Online Holdings, Inc.
+- ChromaDex Corp.
+- Cidara Therapeutics, Inc.
+- Cinedigm Corp.
+- Citi Trends Inc
+- Citizens Community Bancorp Inc.
+- Clean Energy Fuels Corp.
+- Cleantech Solutions International, Inc.,
+- Clearfield, Inc.
+- Clearside Biomedical, Inc.
+- Clifton Bancorp Inc.
+- Clovis Oncology, Inc.
+- Coastway Bancorp, Inc.
+- Cogint, Inc.
+- Coherus BioSciences, Inc.
+- CombiMatrix Corp
+- CommScope Holding Company, Inc.
+- Commerce Union Bancshares, Inc.
+- CommerceHub, Inc.
+- Commercial Vehicle Group, Inc.
+- Community Bankers Trust Corp
+- Community Choice Financial Inc.
+- Community Savings Bancorp, Inc.
+- Comstock Holding Companies, Inc.
+- Conatus Pharmaceuticals Inc.
+- Concept Holding Corp.
+- ConforMIS Inc
+- Conifer Holdings, Inc.
+- ConnectOne Bancorp, Inc.
+- Consolidated Communications Holdings, Inc.
+- ContraVir Pharmaceuticals, Inc.
+- Conyers Park Acquisition Corp.
+- Corbus Pharmaceuticals Holdings, Inc.
+- Core-Mark Holding Company, Inc.
+- Corium International, Inc.
+- Cornerstone OnDemand Inc
+- Corvus Pharmaceuticals, Inc.
+- County Bancorp, Inc.
+- Coupa Software Inc
+- Covisint Corp
+- Criteo S.A.
+- Crocs, Inc.
+- Cryoport, Inc.
+- Cyclacel Pharmaceuticals, Inc.
+- CymaBay Therapeutics, Inc.
+- CyrusOne Inc.
+- CyrusOne LP
+- CytomX Therapeutics, Inc.
+- Cytosorbents Corp
+- DAILY JOURNAL CORP
+- DASAN ZHONE SOLUTIONS INC
+- DATA I/O CORP
+- DATAWATCH CORP
+- DAWSON GEOPHYSICAL CO
+- DELCATH SYSTEMS, INC.
+- DENTSPLY SIRONA Inc.
+- DEPOMED INC
+- DESTINATION XL GROUP, INC.
+- DETERMINE, INC.
+- DEXCOM INC
+- DEXTERA SURGICAL INC
+- DIAMOND HILL INVESTMENT GROUP INC
+- DIGI INTERNATIONAL INC
+- DIGILITI MONEY GROUP, INC.
+- DIGIRAD CORP
+- DIGITAL ALLY INC
+- DIME COMMUNITY BANCSHARES INC
+- DIODES INC /DEL/
+- DISH Network CORP
+- DLH Holdings Corp.
+- DMC Global Inc.
+- DOLLAR TREE INC
+- DONEGAL GROUP INC
+- DORCHESTER MINERALS, L.P.
+- DR. TATTOFF, INC.
+- DSP GROUP INC /DE/
+- DULUTH HOLDINGS INC.
+- DUNKIN' BRANDS GROUP, INC.
+- DURECT CORP
+- DXP ENTERPRISES INC
+- DYNASIL CORP OF AMERICA
+- DYNATRONICS CORP
+- DYNAVAX TECHNOLOGIES CORP
+- DarioHealth Corp.
+- Daseke, Inc.
+- Dave & Buster's Entertainment, Inc.
+- Del Frisco's Restaurant Group, Inc.
+- Del Taco Restaurants, Inc.
+- DelMar Pharmaceuticals, Inc.
+- Dermira, Inc.
+- Destination Maternity Corp
+- Diamondback Energy, Inc.
+- Dicerna Pharmaceuticals Inc
+- Differential Brands Group Inc.
+- Diffusion Pharmaceuticals Inc.
+- Digimarc CORP
+- Digital Turbine, Inc.
+- Dimension Therapeutics, Inc.
+- Dipexium Pharmaceuticals, Inc.
+- Discovery Communications, Inc.
+- Diversicare Healthcare Services, Inc.
+- Diversified Restaurant Holdings, Inc.
+- Dorman Products, Inc.
+- Double Eagle Acquisition Corp.
+- E TRADE FINANCIAL CORP
+- EAGLE BANCORP INC
+- EAGLE PHARMACEUTICALS, INC.
+- EAST WEST BANCORP INC
+- EASTERN VIRGINIA BANKSHARES INC
+- EBAY INC
+- EBIX INC
+- ECHELON CORP
+- EDGEWATER TECHNOLOGY INC/DE/
+- EDUCATIONAL DEVELOPMENT CORP
+- EGAIN Corp
+- EKSO BIONICS HOLDINGS, INC.
+- ELECTRO SCIENTIFIC INDUSTRIES INC
+- ELECTRO SENSORS INC
+- ELECTRONIC ARTS INC.
+- ELECTRONICS FOR IMAGING INC
+- EMC INSURANCE GROUP INC
+- EMCLAIRE FINANCIAL CORP
+- EMCORE CORP
+- EMMIS COMMUNICATIONS CORP
+- EMPIRE RESORTS INC
+- EMPIRE RESOURCES INC /NEW/
+- ENANTA PHARMACEUTICALS INC
+- ENCORE CAPITAL GROUP INC
+- ENCORE WIRE CORP
+- ENDOCYTE INC
+- ENDRA Life Sciences Inc.
+- ENERNOC INC
+- ENGLOBAL CORP
+- ENTEGRIS INC
+- ENTELLUS MEDICAL INC
+- ENTERPRISE FINANCIAL SERVICES CORP
+- EPLUS INC
+- EQUINIX INC
+- EQUITY BANCSHARES INC
+- ESCALADE INC
+- ESSA Bancorp, Inc.
+- ESSENDANT INC
+- ETSY INC
+- EURONET WORLDWIDE INC
+- EV Energy Partners, LP
+- EVERBRIDGE, INC.
+- EVERSPIN TECHNOLOGIES INC
+- EVINE Live Inc.
+- EVOLVING SYSTEMS INC
+- EXA CORP
+- EXACT SCIENCES CORP
+- EXACTECH INC
+- EXELIXIS, INC.
+- EXPEDITORS INTERNATIONAL OF WASHINGTON INC
+- EXPONENT INC
+- EXTREME NETWORKS INC
+- EYEGATE PHARMACEUTICALS INC
+- EZCORP INC
+- Eagle Bancorp Montana, Inc.
+- Eagle Bulk Shipping Inc.
+- Easterly Acquisition Corp.
+- Echo Global Logistics, Inc.
+- EchoStar CORP
+- Eco-Stim Energy Solutions, Inc.
+- Edge Therapeutics, Inc.
+- Editas Medicine, Inc.
+- Egalet Corp
+- Eiger BioPharmaceuticals, Inc.
+- El Pollo Loco Holdings, Inc.
+- Eldorado Resorts, Inc.
+- Electrum Special Acquisition Corp
+- Eleven Biotherapeutics, Inc.
+- Endo International plc
+- Endurance International Group Holdings, Inc.
+- Energous Corp
+- Energy Recovery, Inc.
+- Energy XXI Ltd
+- Enphase Energy, Inc.
+- Enstar Group LTD
+- Entegra Financial Corp.
+- EnteroMedics Inc
+- Entertainment Gaming Asia Inc.
+- Epizyme, Inc.
+- Equitable Financial Corp.
+- Esperion Therapeutics, Inc.
+- Ever-Glory International Group, Inc.
+- Evoke Pharma Inc
+- ExOne Co
+- ExlService Holdings, Inc.
+- Expedia, Inc.
+- Express Scripts Holding Co.
+- Extraction Oil & Gas, Inc.
+- F5 NETWORKS INC
+- FAIRPOINT COMMUNICATIONS INC
+- FALCONSTOR SOFTWARE INC
+- FARMER BROTHERS CO
+- FARMERS CAPITAL BANK CORP
+- FARMERS NATIONAL BANC CORP /OH/
+- FARO TECHNOLOGIES INC
+- FASTENAL CO
+- FATE THERAPEUTICS INC
+- FAUQUIER BANKSHARES, INC.
+- FBR & Co.
+- FIBROGEN INC
+- FIDELITY SOUTHERN CORP
+- FIFTH THIRD BANCORP
+- FINANCIAL INSTITUTIONS INC
+- FINISAR CORP
+- FINISH LINE INC /IN/
+- FINJAN HOLDINGS, INC.
+- FIRST BANCSHARES INC /MS/
+- FIRST BUSINESS FINANCIAL SERVICES, INC.
+- FIRST CAPITAL INC
+- FIRST CITIZENS BANCSHARES INC /DE/
+- FIRST CITIZENS BANCSHARES INC /TN/
+- FIRST COMMUNITY BANCSHARES INC /NV/
+- FIRST COMMUNITY CORP /SC/
+- FIRST DEFIANCE FINANCIAL CORP
+- FIRST FINANCIAL BANCORP /OH/
+- FIRST FINANCIAL BANKSHARES INC
+- FIRST FINANCIAL CORP /IN/
+- FIRST HAWAIIAN, INC.
+- FIRST INTERSTATE BANCSYSTEM INC
+- FIRST MERCHANTS CORP
+- FIRST MID ILLINOIS BANCSHARES INC
+- FIRST MIDWEST BANCORP INC
+- FIRST OF LONG ISLAND CORP
+- FIRST SOLAR, INC.
+- FIRST SOUTH BANCORP INC /VA/
+- FIRST UNITED CORP/MD/
+- FIRST US BANCSHARES INC
+- FISERV INC
+- FIVE BELOW, INC
+- FIVE PRIME THERAPEUTICS INC
+- FIVE STAR SENIOR LIVING INC.
+- FLEX LTD.
+- FLEXSTEEL INDUSTRIES INC
+- FLIR SYSTEMS INC
+- FLUIDIGM CORP
+- FLUSHING FINANCIAL CORP
+- FONAR CORP
+- FOOTHILLS EXPLORATION, INC.
+- FORM Holdings Corp.
+- FORMFACTOR INC
+- FORRESTER RESEARCH, INC.
+- FORTINET INC
+- FORWARD AIR CORP
+- FORWARD INDUSTRIES INC
+- FOSTER L B CO
+- FOX FACTORY HOLDING CORP
+- FRANKLIN ELECTRIC CO INC
+- FREDS INC
+- FREQUENCY ELECTRONICS INC
+- FRONTIER COMMUNICATIONS CORP
+- FRP HOLDINGS, INC.
+- FS Bancorp, Inc.
+- FSB Bancorp, Inc.
+- FTD Companies, Inc.
+- FUEL TECH, INC.
+- FUELCELL ENERGY INC
+- FULL HOUSE RESORTS INC
+- FULTON FINANCIAL CORP
+- FUSION TELECOMMUNICATIONS INTERNATIONAL INC
+- Facebook Inc
+- Fenix Parts, Inc.
+- Fibrocell Science, Inc.
+- Fiesta Restaurant Group, Inc.
+- Fifth Street Asset Management Inc.
+- Financial Engines, Inc.
+- Fintech Acquisition Corp. II
+- FireEye, Inc.
+- First Bancorp, Inc /ME/
+- First Community Financial Partners, Inc.
+- First Connecticut Bancorp, Inc.
+- First Financial Northwest, Inc.
+- First Foundation Inc.
+- First Guaranty Bancshares, Inc.
+- First Internet Bancorp
+- First NBC Bank Holding Co
+- First Northwest Bancorp
+- First Savings Financial Group Inc
+- Five9, Inc.
+- Flex Pharma, Inc.
+- FlexShopper, Inc.
+- Flexion Therapeutics Inc
+- Fogo de Chao, Inc.
+- Forterra, Inc.
+- Fortress Biotech, Inc.
+- Fossil Group, Inc.
+- Foundation Medicine, Inc.
+- Francesca's Holdings CORP
+- FreightCar America, Inc.
+- Freshpet, Inc.
+- Fulgent Genetics, Inc.
+- Function(x) Inc.
+- G III APPAREL GROUP LTD /DE/
+- GAIA, INC
+- GALECTIN THERAPEUTICS INC
+- GARMIN LTD
+- GENCOR INDUSTRIES INC
+- GENERAL COMMUNICATION INC
+- GENOCEA BIOSCIENCES, INC.
+- GENOMIC HEALTH INC
+- GENTEX CORP
+- GENTHERM Inc
+- GENVEC INC
+- GEOSPACE TECHNOLOGIES CORP
+- GERMAN AMERICAN BANCORP, INC.
+- GERON CORP
+- GIBRALTAR INDUSTRIES, INC.
+- GIGA TRONICS INC
+- GILEAD SCIENCES INC
+- GLACIER BANCORP INC
+- GLADSTONE COMMERCIAL CORP
+- GLADSTONE LAND Corp
+- GLEN BURNIE BANCORP
+- GLU MOBILE INC
+- GLYCOMIMETICS INC
+- GOLDEN ENTERTAINMENT, INC.
+- GOOGLE INC.
+- GOVERNMENT PROPERTIES INCOME TRUST
+- GP Investments Acquisition Corp.
+- GREAT SOUTHERN BANCORP INC
+- GREENE COUNTY BANCORP INC
+- GRIFFIN INDUSTRIAL REALTY, INC.
+- GSI TECHNOLOGY INC
+- GTY Technology Holdings Inc.
+- GUARANTY FEDERAL BANCSHARES INC
+- GULF ISLAND FABRICATION INC
+- GULF RESOURCES, INC.
+- GULFPORT ENERGY CORP
+- GWG Holdings, Inc.
+- Galena Biopharma, Inc.
+- Galenfeha, Inc.
+- Gaming Partners International CORP
+- Gemphire Therapeutics Inc.
+- GenMark Diagnostics, Inc.
+- General Finance CORP
+- Genius Brands International, Inc.
+- Georgetown Bancorp, Inc.
+- Gevo, Inc.
+- Global Blood Therapeutics, Inc.
+- Global Brokerage, Inc.
+- Global Eagle Entertainment Inc.
+- Global Indemnity Ltd
+- Global Partner Acquisition Corp.
+- Global Self Storage, Inc.
+- Global Water Resources, Inc.
+- GoPro, Inc.
+- Gogo Inc.
+- Good Times Restaurants Inc.
+- Gores Holdings II, Inc.
+- Grand Canyon Education, Inc.
+- Great Elm Capital Group, Inc.
+- Great Lakes Dredge & Dock CORP
+- Green Bancorp, Inc.
+- Green Brick Partners, Inc.
+- Green Plains Inc.
+- Green Plains Partners LP
+- Groupon, Inc.
+- Guaranty Bancorp
+- Guidance Software, Inc.
+- Gyrodyne, LLC
+- H&E Equipment Services, Inc.
+- HAIN CELESTIAL GROUP INC
+- HALLADOR ENERGY CO
+- HALLMARK FINANCIAL SERVICES INC
+- HALOZYME THERAPEUTICS INC
+- HANCOCK HOLDING CO
+- HANDY & HARMAN LTD.
+- HANMI FINANCIAL CORP
+- HARDINGE INC
+- HARMONIC INC
+- HARVARD BIOSCIENCE INC
+- HASBRO INC
+- HAWAIIAN HOLDINGS INC
+- HAWKINS INC
+- HAWTHORN BANCSHARES, INC.
+- HAYNES INTERNATIONAL INC
+- HD Supply Holdings, Inc.
+- HEALTHCARE SERVICES GROUP INC
+- HEALTHEQUITY INC
+- HEALTHSTREAM INC
+- HEARTLAND EXPRESS INC
+- HEARTLAND FINANCIAL USA INC
+- HEAT BIOLOGICS, INC.
+- HEIDRICK & STRUGGLES INTERNATIONAL INC
+- HELEN OF TROY LTD
+- HEMISPHERE MEDIA GROUP, INC.
+- HENNESSY ADVISORS INC
+- HENRY JACK & ASSOCIATES INC
+- HENRY SCHEIN INC
+- HERITAGE COMMERCE CORP
+- HERON THERAPEUTICS, INC. /DE/
+- HESKA CORP
+- HIBBETT SPORTS INC
+- HISTOGENICS CORP
+- HMN FINANCIAL INC
+- HMS HOLDINGS CORP
+- HOLOGIC INC
+- HOME BANCORP, INC.
+- HOME BANCSHARES INC
+- HOOKER FURNITURE CORP
+- HOPE BANCORP INC
+- HOPFED BANCORP INC
+- HORIZON BANCORP /IN/
+- HOSPITALITY PROPERTIES TRUST
+- HOVNANIAN ENTERPRISES INC
+- HSN, Inc.
+- HTG MOLECULAR DIAGNOSTICS, INC
+- HUDSON TECHNOLOGIES INC /NY
+- HUNT J B TRANSPORT SERVICES INC
+- HURCO COMPANIES INC
+- HUTTIG BUILDING PRODUCTS INC
+- HV Bancorp, Inc.
+- Habit Restaurants, Inc.
+- Hamilton Bancorp, Inc.
+- HarborOne Bancorp, Inc.
+- Harmony Merger Corp.
+- Hawaiian Telcom Holdco, Inc.
+- Health Insurance Innovations, Inc.
+- Helios & Matheson Analytics Inc.
+- Heritage-Crystal Clean, Inc.
+- Highpower International, Inc.
+- Home Federal Bancorp, Inc. of Louisiana
+- HomeStreet, Inc.
+- HomeTown Bankshares Corp
+- HomeTrust Bancshares, Inc.
+- Hongli Clean Energy Technologies Corp.
+- Horizon Pharma plc
+- Hortonworks, Inc.
+- Hostess Brands, Inc.
+- Houghton Mifflin Harcourt Co
+- Houston Wire & Cable CO
+- Howard Bancorp Inc
+- Hub Group, Inc.
+- Hudson Global, Inc.
+- Huron Consulting Group Inc.
+- IAC/INTERACTIVECORP
+- IBERIABANK CORP
+- ICAD INC
+- ICAHN ENTERPRISES L.P.
+- ICC Holdings, Inc.
+- ICF International, Inc.
+- ICHOR HOLDINGS, LTD.
+- ICONIX BRAND GROUP, INC.
+- ID SYSTEMS INC
+- IDERA PHARMACEUTICALS, INC.
+- IES Holdings, Inc.
+- IF Bancorp, Inc.
+- IHS Markit Ltd.
+- II-VI INC
+- IKONICS CORP
+- ILG, Inc.
+- ILLUMINA INC
+- IMAGE SENSING SYSTEMS INC
+- IMMERSION CORP
+- IMMUCELL CORP /DE/
+- IMMUNE PHARMACEUTICALS INC
+- IMMUNOGEN INC
+- IMMUNOMEDICS INC
+- IMPAX LABORATORIES INC
+- IMPERVA INC
+- IMPINJ INC
+- INC Research Holdings, Inc.
+- INCYTE CORP
+- INDEPENDENT BANK CORP
+- INDUSTRIAL SERVICES OF AMERICA INC
+- INFINERA Corp
+- INFINITY PHARMACEUTICALS, INC.
+- INFOSONICS Corp
+- INGLES MARKETS INC
+- INNERWORKINGS INC
+- INNODATA INC
+- INNOSPEC INC.
+- INOTEK PHARMACEUTICALS CORP
+- INOVIO PHARMACEUTICALS, INC.
+- INPIXON
+- INSEEGO CORP.
+- INSIGHT ENTERPRISES INC
+- INSMED Inc
+- INSTEEL INDUSTRIES INC
+- INSULET CORP
+- INTEGRA LIFESCIENCES HOLDINGS CORP
+- INTEGRATED DEVICE TECHNOLOGY INC
+- INTEL CORP
+- INTER PARFUMS INC
+- INTERCEPT PHARMACEUTICALS INC
+- INTERFACE INC
+- INTERGROUP CORP
+- INTERLINK ELECTRONICS INC
+- INTERMOLECULAR INC
+- INTERNATIONAL BANCSHARES CORP
+- INTERNATIONAL SPEEDWAY CORP
+- INTERSECTIONS INC
+- INTEVAC INC
+- INTL FCSTONE INC.
+- INTRICON CORP
+- INTUIT INC
+- INTUITIVE SURGICAL INC
+- INVENTURE FOODS, INC.
+- INVIVO THERAPEUTICS HOLDINGS CORP.
+- IONIS PHARMACEUTICALS INC
+- IOVANCE BIOTHERAPEUTICS, INC.
+- IPASS INC
+- IPG PHOTONICS CORP
+- IRADIMED CORP
+- IRIDEX CORP
+- IROBOT CORP
+- IRONWOOD PHARMACEUTICALS INC
+- ISLE OF CAPRI CASINOS INC
+- ISRAMCO INC
+- ITERIS, INC.
+- ITRON INC /WA/
+- ITUS Corp
+- IXIA
+- IXYS CORP /DE/
+- IZEA, Inc.
+- Ideal Power Inc.
+- Identiv, Inc.
+- Ignyta, Inc.
+- Immune Design Corp.
+- Imprimis Pharmaceuticals, Inc.
+- Independent Bank Group, Inc.
+- Information Services Group Inc.
+- Innocoll Holdings plc
+- Innophos Holdings, Inc.
+- Innoviva, Inc.
+- Inogen Inc
+- Inovalon Holdings, Inc.
+- Inspired Entertainment, Inc.
+- Insys Therapeutics, Inc.
+- Intellia Therapeutics, Inc.
+- InterDigital, Inc.
+- Interactive Brokers Group, Inc.
+- Internap Corp
+- Interpace Diagnostics Group, Inc.
+- Intersect ENT, Inc.
+- Intra-Cellular Therapies, Inc.
+- Inventergy Global, Inc.
+- Investar Holding Corp
+- Investors Bancorp, Inc.
+- Invuity, Inc.
+- Iridium Communications Inc.
+- J&J SNACK FOODS CORP
+- J2 GLOBAL, INC.
+- JAKKS PACIFIC INC
+- JAMBA, INC.
+- JETBLUE AIRWAYS CORP
+- JEWETT CAMERON TRADING CO LTD
+- JM Global Holding Co
+- JOHNSON OUTDOORS INC
+- JOINT Corp
+- JUNIPER PHARMACEUTICALS INC
+- Jacksonville Bancorp, Inc.
+- Jaguar Animal Health, Inc.
+- James River Group Holdings, Ltd.
+- Jason Industries, Inc.
+- Jazz Pharmaceuticals plc
+- Jensyn Acquisition Corp.
+- JetPay Corp
+- Jive Software, Inc.
+- Jounce Therapeutics, Inc.
+- Juno Therapeutics, Inc.
+- K2M GROUP HOLDINGS, INC.
+- KAISER ALUMINUM CORP
+- KELLY SERVICES INC
+- KEMPHARM, INC
+- KERYX BIOPHARMACEUTICALS INC
+- KEWAUNEE SCIENTIFIC CORP /DE/
+- KEY TECHNOLOGY INC
+- KEY TRONIC CORP
+- KEYW HOLDING CORP
+- KFORCE INC
+- KIMBALL INTERNATIONAL INC
+- KINGOLD JEWELRY, INC.
+- KINGSTONE COMPANIES, INC.
+- KIRKLAND'S, INC
+- KLA TENCOR CORP
+- KLX Inc.
+- KONA GRILL INC
+- KOPIN CORP
+- KOSS CORP
+- KRATOS DEFENSE & SECURITY SOLUTIONS, INC.
+- KULICKE & SOFFA INDUSTRIES INC
+- KalVista Pharmaceuticals, Inc.
+- Kandi Technologies Group, Inc.
+- Karnet Capital Corp.
+- Karyopharm Therapeutics Inc.
+- Kayne Anderson Acquisition Corp
+- Kearny Financial Corp.
+- Kentucky First Federal Bancorp
+- Kimball Electronics, Inc.
+- Kindred Biosciences, Inc.
+- Kinsale Capital Group, Inc.
+- Kite Pharma, Inc.
+- Kura Oncology, Inc.
+- LAKE SHORE BANCORP, INC.
+- LAKELAND BANCORP INC
+- LAKELAND FINANCIAL CORP
+- LAKELAND INDUSTRIES INC
+- LAM RESEARCH CORP
+- LAMAR ADVERTISING CO/NEW
+- LAMAR MEDIA CORP/DE
+- LANCASTER COLONY CORP
+- LANDEC CORP \CA\
+- LANDMARK BANCORP INC
+- LANDSTAR SYSTEM INC
+- LANTRONIX INC
+- LATTICE SEMICONDUCTOR CORP
+- LAUREATE EDUCATION, INC.
+- LAYNE CHRISTENSEN CO
+- LCNB CORP
+- LEAP THERAPEUTICS, INC.
+- LEGACY RESERVES LP
+- LEMAITRE VASCULAR INC
+- LEXICON PHARMACEUTICALS, INC.
+- LGI Homes, Inc.
+- LHC Group, Inc
+- LIFEPOINT HEALTH, INC.
+- LIFETIME BRANDS, INC
+- LIFEWAY FOODS INC
+- LIGHTBRIDGE Corp
+- LIGHTPATH TECHNOLOGIES INC
+- LILIS ENERGY, INC.
+- LINCOLN EDUCATIONAL SERVICES CORP
+- LINCOLN ELECTRIC HOLDINGS INC
+- LINDBLAD EXPEDITIONS HOLDINGS, INC.
+- LIQUIDITY SERVICES INC
+- LITTELFUSE INC /DE
+- LIVEPERSON INC
+- LKQ CORP
+- LM FUNDING AMERICA, INC.
+- LMI AEROSPACE INC
+- LORAL SPACE & COMMUNICATIONS INC.
+- LPL Financial Holdings Inc.
+- LRAD Corp
+- LSI INDUSTRIES INC
+- LUMINEX CORP
+- LUNA INNOVATIONS INC
+- Landcadia Holdings, Inc.
+- Landmark Infrastructure Partners LP
+- Lantheus Holdings, Inc.
+- LegacyTexas Financial Group, Inc.
+- LendingTree, Inc.
+- Liberty Broadband Corp
+- Liberty Expedia Holdings, Inc.
+- Liberty Global plc
+- Liberty Interactive Corp
+- Liberty Media Corp
+- Liberty Tax, Inc.
+- Liberty TripAdvisor Holdings, Inc.
+- Lifevantage Corp
+- Limbach Holdings, Inc.
+- Limelight Networks, Inc.
+- Limoneira CO
+- Lipocine Inc.
+- LivaNova PLC
+- Live Oak Bancshares, Inc.
+- LogMeIn, Inc.
+- Lonestar Resources US Inc.
+- Long Island Iced Tea Corp.
+- Loxo Oncology, Inc.
+- Lumentum Holdings Inc.
+- Lumos Networks Corp.
+- M I Acquisitions, Inc.
+- M III Acquisition Corp.
+- MABVAX THERAPEUTICS HOLDINGS, INC.
+- MACATAWA BANK CORP
+- MACKINAC FINANCIAL CORP /MI/
+- MACOM Technology Solutions Holdings, Inc.
+- MACROGENICS INC
+- MADRIGAL PHARMACEUTICALS, INC.
+- MAGELLAN HEALTH INC
+- MAGICJACK VOCALTEC LTD
+- MAGNEGAS CORP
+- MALVERN BANCORP, INC.
+- MAM SOFTWARE GROUP, INC.
+- MAMMOTH ENERGY SERVICES, INC.
+- MANHATTAN ASSOCIATES INC
+- MANHATTAN BRIDGE CAPITAL, INC
+- MANNKIND CORP
+- MANTECH INTERNATIONAL CORP
+- MARCHEX INC
+- MARINUS PHARMACEUTICALS INC
+- MARKETAXESS HOLDINGS INC
+- MARLIN BUSINESS SERVICES CORP
+- MARRIOTT INTERNATIONAL INC /MD/
+- MARRONE BIO INNOVATIONS INC
+- MARTEN TRANSPORT LTD
+- MARVELL TECHNOLOGY GROUP LTD
+- MASIMO CORP
+- MATRIX SERVICE CO
+- MATTEL INC /DE/
+- MATTHEWS INTERNATIONAL CORP
+- MAXIM INTEGRATED PRODUCTS INC
+- MAXWELL TECHNOLOGIES INC
+- MAYS J W INC
+- MBT FINANCIAL CORP
+- MCBC Holdings, Inc.
+- MCGRATH RENTCORP
+- MDC PARTNERS INC
+- MEDICAL TRANSCRIPTION BILLING, CORP
+- MEDICINOVA INC
+- MEI Pharma, Inc.
+- MERCADOLIBRE INC
+- MERCANTILE BANK CORP
+- MERCER INTERNATIONAL INC.
+- MERCHANTS BANCSHARES INC
+- MERCURY SYSTEMS INC
+- MERIDIAN BIOSCIENCE INC
+- MERIT MEDICAL SYSTEMS INC
+- MERRIMACK PHARMACEUTICALS INC
+- MESA LABORATORIES INC /CO
+- META FINANCIAL GROUP INC
+- MGC DIAGNOSTICS Corp
+- MGE ENERGY INC
+- MGP INGREDIENTS INC
+- MICRON TECHNOLOGY INC
+- MICRONET ENERTEC TECHNOLOGIES, INC.
+- MICROSEMI CORP
+- MICROSOFT CORP
+- MICROSTRATEGY INC
+- MICROVISION, INC.
+- MID PENN BANCORP INC
+- MIDDLEFIELD BANC CORP
+- MILLER HERMAN INC
+- MIMEDX GROUP, INC.
+- MINDBODY, Inc.
+- MIRAGEN THERAPEUTICS, INC.
+- MISONIX INC
+- MITCHAM INDUSTRIES INC
+- MITEK SYSTEMS INC
+- MITEL NETWORKS CORP
+- MKS INSTRUMENTS INC
+- MMA CAPITAL MANAGEMENT, LLC
+- MOBILE MINI INC
+- MOBILEIRON, INC.
+- MOCON INC
+- MOMENTA PHARMACEUTICALS INC
+- MONARCH CASINO & RESORT INC
+- MONEYGRAM INTERNATIONAL INC
+- MONOLITHIC POWER SYSTEMS INC
+- MONRO MUFFLER BRAKE INC
+- MRI INTERVENTIONS, INC.
+- MRV COMMUNICATIONS INC
+- MSB FINANCIAL CORP
+- MSB FINANCIAL CORP.
+- MSG NETWORKS INC.
+- MTGE Investment Corp.
+- MTS SYSTEMS CORP
+- MULTI COLOR Corp
+- MUTUALFIRST FINANCIAL INC
+- MYOS RENS TECHNOLOGY INC.
+- MYR GROUP INC.
+- MYRIAD GENETICS INC
+- Madison Square Garden Co
+- Magyar Bancorp, Inc.
+- Maiden Holdings, Ltd.
+- Malibu Boats, Inc.
+- Manitex International, Inc.
+- Marathon Patent Group, Inc.
+- Match Group, Inc.
+- Matlin & Partners Acquisition Corp
+- Mattersight Corp
+- MaxPoint Interactive, Inc.
+- Medidata Solutions, Inc.
+- Medovex Corp.
+- Medpace Holdings, Inc.
+- Meet Group, Inc.
+- Mellanox Technologies, Ltd.
+- Melrose Bancorp, Inc.
+- Meridian Bancorp, Inc.
+- Meridian Waste Solutions, Inc.
+- Microbot Medical Inc.
+- Mid-Con Energy Partners, LP
+- MidWestOne Financial Group, Inc.
+- Midland States Bancorp, Inc.
+- Minerva Neurosciences, Inc.
+- Mirati Therapeutics, Inc.
+- Mirna Therapeutics, Inc.
+- MoSys, Inc.
+- Modsys International Ltd
+- ModusLink Global Solutions Inc
+- Moleculin Biotech, Inc.
+- Mondelez International, Inc.
+- Monotype Imaging Holdings Inc.
+- Monster Beverage Corp
+- Monster Digital, Inc.
+- Morningstar, Inc.
+- Moxian, Inc.
+- My Size, Inc.
+- Mylan N.V.
+- MyoKardia Inc
+- NAKED BRAND GROUP INC.
+- NANOMETRICS INC
+- NAPCO SECURITY TECHNOLOGIES, INC
+- NASDAQ, INC.
+- NATHANS FAMOUS INC
+- NATIONAL BANKSHARES INC
+- NATIONAL BEVERAGE CORP
+- NATIONAL HOLDINGS CORP
+- NATIONAL INSTRUMENTS CORP
+- NATIONAL RESEARCH CORP
+- NATIONAL SECURITY GROUP INC
+- NATURAL ALTERNATIVES INTERNATIONAL INC
+- NATURAL HEALTH TRENDS CORP
+- NAVIENT CORP
+- NAVIGATORS GROUP INC
+- NBT BANCORP INC
+- NCI, Inc.
+- NEKTAR THERAPEUTICS
+- NEOGEN CORP
+- NEOGENOMICS INC
+- NET 1 UEPS TECHNOLOGIES INC
+- NETFLIX INC
+- NETGEAR, INC
+- NETLIST INC
+- NETSCOUT SYSTEMS INC
+- NETSOL TECHNOLOGIES INC
+- NEUROCRINE BIOSCIENCES INC
+- NEW YORK MORTGAGE TRUST INC
+- NEWLINK GENETICS CORP
+- NEWS CORP
+- NEXSTAR MEDIA GROUP, INC.
+- NF Energy Saving Corp
+- NI Holdings, Inc.
+- NIC INC
+- NICHOLAS FINANCIAL INC
+- NICOLET BANKSHARES INC
+- NII HOLDINGS INC
+- NMI Holdings, Inc.
+- NN INC
+- NORDSON CORP
+- NORTHEAST BANCORP /ME/
+- NORTHERN TECHNOLOGIES INTERNATIONAL CORP
+- NORTHERN TRUST CORP
+- NORTHRIM BANCORP INC
+- NORTHWEST PIPE CO
+- NORWOOD FINANCIAL CORP
+- NOVANTA INC
+- NOVAVAX INC
+- NOVELION THERAPEUTICS INC.
+- NUMEREX CORP /PA/
+- NUTRACEUTICAL INTERNATIONAL CORP
+- NUTRI SYSTEM INC /DE/
+- NUVASIVE INC
+- NV5 Global, Inc.
+- NVE CORP /NEW/
+- NVIDIA CORP
+- Nabriva Therapeutics AG
+- NanoString Technologies Inc
+- NantHealth, Inc.
+- NantKwest, Inc.
+- Natera, Inc.
+- National American University Holdings, Inc.
+- National CineMedia, Inc.
+- National Commerce Corp
+- National General Holdings Corp.
+- National Western Life Group, Inc.
+- Neonode, Inc
+- Neos Therapeutics, Inc.
+- Neothetics, Inc.
+- Net Element, Inc.
+- NetApp, Inc.
+- Neuralstem, Inc.
+- NeuroMetrix, Inc.
+- Neurotrope, Inc.
+- New Age Beverages Corp
+- NewStar Financial, Inc.
+- Nexeo Solutions, Inc.
+- Nexvet Biopharma plc
+- Nivalis Therapeutics, Inc.
+- Northfield Bancorp, Inc.
+- Northwest Bancshares, Inc.
+- Norwegian Cruise Line Holdings Ltd.
+- Nova Lifestyle, Inc.
+- Novan, Inc.
+- Novocure Ltd
+- Nuance Communications, Inc.
+- Nutanix, Inc.
+- Nuvectra Corp
+- NxStage Medical, Inc.
+- Nxt-ID, Inc.
+- OBALON THERAPEUTICS INC
+- OCEAN BIO CHEM INC
+- OCEANFIRST FINANCIAL CORP
+- OCLARO, INC.
+- OCULAR THERAPEUTIX, INC
+- ODYSSEY MARINE EXPLORATION INC
+- OFFICE DEPOT INC
+- OHIO VALLEY BANC CORP
+- OLD DOMINION FREIGHT LINE INC/VA
+- OLD LINE BANCSHARES INC
+- OLD NATIONAL BANCORP /IN/
+- OLD POINT FINANCIAL CORP
+- OLD SECOND BANCORP INC
+- OLYMPIC STEEL INC
+- OMEROS CORP
+- OMNICELL, Inc
+- ON SEMICONDUCTOR CORP
+- ON TRACK INNOVATIONS LTD
+- ONCOGENEX PHARMACEUTICALS, INC.
+- ONCOSEC MEDICAL Inc
+- ONVIA INC
+- OPEN TEXT CORP
+- OPGEN INC
+- OPTICAL CABLE CORP
+- ORAMED PHARMACEUTICALS INC.
+- ORASURE TECHNOLOGIES INC
+- ORBCOMM Inc.
+- ORGANOVO HOLDINGS, INC.
+- ORION ENERGY SYSTEMS, INC.
+- ORRSTOWN FINANCIAL SERVICES INC
+- ORTHOFIX INTERNATIONAL N V
+- OSI SYSTEMS INC
+- OTELCO INC.
+- OTONOMY, INC.
+- OVERSTOCK.COM, INC
+- OXBRIDGE RE HOLDINGS Ltd
+- Oak Valley Bancorp
+- Ocean Power Technologies, Inc.
+- Ocera Therapeutics, Inc.
+- Oconee Federal Financial Corp.
+- Ohr Pharmaceutical Inc
+- Okta, Inc.
+- Ollie's Bargain Outlet Holdings, Inc.
+- Omega Flex, Inc.
+- Ominto, Inc.
+- OncoMed Pharmaceuticals Inc
+- Oncobiologics, Inc.
+- Onconova Therapeutics, Inc.
+- One Horizon Group, Inc.
+- Opexa Therapeutics, Inc.
+- Ophthotech Corp.
+- Opko Health, Inc.
+- OptimumBank Holdings, Inc.
+- Orexigen Therapeutics, Inc.
+- Origo Acquisition Corp
+- Oritani Financial Corp
+- Ottawa Bancorp Inc
+- Ottawa Savings Bancorp, Inc.
+- Otter Tail Corp
+- OvaScience, Inc.
+- Oxford Immunotec Global PLC
+- P&F INDUSTRIES INC
+- PACCAR INC
+- PACIFIC BIOSCIENCES OF CALIFORNIA, INC.
+- PACIFIC CONTINENTAL CORP
+- PACIFIC MERCANTILE BANCORP
+- PACIFIC PREMIER BANCORP INC
+- PACWEST BANCORP
+- PAIN THERAPEUTICS INC
+- PAM TRANSPORTATION SERVICES INC
+- PAPA JOHNS INTERNATIONAL INC
+- PAREXEL INTERNATIONAL CORP
+- PARK CITY GROUP INC
+- PARK OHIO HOLDINGS CORP
+- PARKE BANCORP, INC.
+- PARKERVISION INC
+- PATHFINDER BANCORP INC
+- PATRICK INDUSTRIES INC
+- PATRIOT NATIONAL BANCORP INC
+- PATRIOT TRANSPORTATION HOLDING, INC.
+- PATTERSON COMPANIES, INC.
+- PATTERSON UTI ENERGY INC
+- PAVmed Inc.
+- PAYCHEX INC
+- PAYMENT DATA SYSTEMS INC
+- PB Bancorp, Inc.
+- PC CONNECTION INC
+- PC TEL INC
+- PCM, INC.
+- PDC ENERGY, INC.
+- PDF SOLUTIONS INC
+- PDL BIOPHARMA, INC.
+- PEAPACK GLADSTONE FINANCIAL CORP
+- PEGASYSTEMS INC
+- PENN NATIONAL GAMING INC
+- PENN VIRGINIA CORP
+- PENNS WOODS BANCORP INC
+- PEOPLES BANCORP INC
+- PEOPLES BANCORP OF NORTH CAROLINA INC
+- PEOPLES FINANCIAL CORP /MS/
+- PEOPLES FINANCIAL SERVICES CORP.
+- PERCEPTRON INC/MI
+- PEREGRINE PHARMACEUTICALS INC
+- PERFICIENT INC
+- PERMA FIX ENVIRONMENTAL SERVICES INC
+- PERNIX THERAPEUTICS HOLDINGS, INC.
+- PERRY ELLIS INTERNATIONAL, INC
+- PETMED EXPRESS INC
+- PFSWEB INC
+- PGT Innovations, Inc.
+- PHASERX, INC.
+- PHI INC
+- PHIBRO ANIMAL HEALTH CORP
+- PHOTOMEDEX INC
+- PHOTRONICS INC
+- PIERIS PHARMACEUTICALS, INC.
+- PINNACLE ENTERTAINMENT INC.
+- PINNACLE FINANCIAL PARTNERS INC
+- PIONEER POWER SOLUTIONS, INC.
+- PIXELWORKS, INC
+- PLEXUS CORP
+- PLUG POWER INC
+- PLUMAS BANCORP
+- PLURISTEM THERAPEUTICS INC
+- POLARITYTE, INC.
+- POOL CORP
+- POPE RESOURCES LTD PARTNERSHIP
+- POPULAR INC
+- PORTOLA PHARMACEUTICALS INC
+- POTBELLY CORP
+- POTLATCH CORP
+- POWELL INDUSTRIES INC
+- POWER INTEGRATIONS INC
+- POWER SOLUTIONS INTERNATIONAL, INC.
+- PRA GROUP INC
+- PRA Health Sciences, Inc.
+- PREFORMED LINE PRODUCTS CO
+- PREMIER FINANCIAL BANCORP INC
+- PRGX GLOBAL, INC.
+- PRICE T ROWE GROUP INC
+- PRICESMART INC
+- PRIMEENERGY CORP
+- PRIVATEBANCORP, INC
+- PRO DEX INC
+- PROFIRE ENERGY INC
+- PROGENICS PHARMACEUTICALS INC
+- PROOFPOINT INC
+- PROTEON THERAPEUTICS INC
+- PROTEOSTASIS THERAPEUTICS, INC.
+- PROVIDENCE SERVICE CORP
+- PROVIDENT FINANCIAL HOLDINGS INC
+- PRUDENTIAL BANCORP, INC.
+- PSYCHEMEDICS CORP
+- PTC INC.
+- PTC THERAPEUTICS, INC.
+- PUMA BIOTECHNOLOGY, INC.
+- PURE CYCLE CORP
+- Pacific Ethanol, Inc.
+- Pacific Special Acquisition Corp.
+- Pacira Pharmaceuticals, Inc.
+- Pangaea Logistics Solutions Ltd.
+- Paragon Commercial CORP
+- Paratek Pharmaceuticals, Inc.
+- Park Sterling Corp
+- Pathfinder Bancorp, Inc.
+- Pattern Energy Group Inc.
+- PayPal Holdings, Inc.
+- Paylocity Holding Corp
+- Peak Resorts Inc
+- Pendrell Corp
+- PennTex Midstream Partners, LP
+- People's United Financial, Inc.
+- People's Utah Bancorp
+- Performant Financial Corp
+- Perfumania Holdings, Inc.
+- Perma-Pipe International Holdings, Inc.
+- Pershing Gold Corp.
+- Pingtan Marine Enterprise Ltd.
+- Pinnacle Entertainment, Inc.
+- Planet Payment Inc
+- Playa Hotels & Resorts N.V.
+- Poage Bankshares, Inc.
+- Polar Power, Inc.
+- Porter Bancorp, Inc.
+- Premier, Inc.
+- Presbia PLC
+- Presidio, Inc.
+- Primo Water Corp
+- Primoris Services Corp
+- ProPhase Labs, Inc.
+- Professional Diversity Network, Inc.
+- Protagonist Therapeutics, Inc
+- Prothena Corp plc
+- Provident Bancorp, Inc.
+- Pulmatrix, Inc.
+- Pulse Biosciences, Inc.
+- QAD INC
+- QCR HOLDINGS INC
+- QUALITY SYSTEMS, INC
+- QUALSTAR CORP
+- QUALYS, INC.
+- QUANTENNA COMMUNICATIONS INC
+- QUIDEL CORP /DE/
+- QUINSTREET, INC
+- Qorvo, Inc.
+- Quest Resource Holding Corp
+- Quinpario Acquisition Corp. 2
+- Qumu Corp
+- Quotient Ltd
+- Quotient Technology Inc.
+- R F INDUSTRIES LTD
+- R1 RCM INC.
+- RADISYS CORP
+- RAMBUS INC
+- RAVE RESTAURANT GROUP, INC.
+- RAVEN INDUSTRIES INC
+- RBC Bearings INC
+- RCI HOSPITALITY HOLDINGS, INC.
+- RCM TECHNOLOGIES INC
+- READING INTERNATIONAL INC
+- REALNETWORKS INC
+- REALPAGE INC
+- REATA PHARMACEUTICALS INC
+- RED ROBIN GOURMET BURGERS INC
+- REGENERON PHARMACEUTICALS INC
+- REGENXBIO Inc.
+- RELIV INTERNATIONAL INC
+- REMARK HOLDINGS, INC.
+- RENASANT CORP
+- RENT A CENTER INC DE
+- RENTECH, INC.
+- REPLIGEN CORP
+- REPROS THERAPEUTICS INC.
+- REPUBLIC FIRST BANCORP INC
+- RESEARCH FRONTIERS INC
+- RESOURCES CONNECTION INC
+- RETAIL OPPORTUNITY INVESTMENTS CORP
+- REX ENERGY CORP
+- RGC RESOURCES INC
+- RICHARDSON ELECTRONICS LTD/DE
+- RIGEL PHARMACEUTICALS INC
+- RIGHTSIDE GROUP, LTD.
+- RITTER PHARMACEUTICALS INC
+- RIVERVIEW BANCORP INC
+- RLJ ENTERTAINMENT, INC.
+- RMG Networks Holding Corp
+- ROCKWELL MEDICAL, INC.
+- ROCKY BRANDS, INC.
+- ROCKY MOUNTAIN CHOCOLATE FACTORY INC
+- ROSS STORES INC
+- ROYAL BANCSHARES OF PENNSYLVANIA INC
+- ROYAL GOLD INC
+- RPX Corp
+- RR Donnelley & Sons Co
+- RTI SURGICAL, INC.
+- RUSH ENTERPRISES INC \TX\
+- RXi Pharmaceuticals Corp
+- Ra Pharmaceuticals, Inc.
+- RadNet, Inc.
+- Radius Health, Inc.
+- Ramaco Resources, Inc.
+- Rand Logistics, Inc.
+- Randolph Bancorp, Inc.
+- Rapid7, Inc.
+- ReWalk Robotics Ltd.
+- Real Goods Solar, Inc.
+- Real Industry, Inc.
+- Recon Technology, Ltd
+- Recro Pharma, Inc.
+- Red Rock Resorts, Inc.
+- Regulus Therapeutics Inc.
+- Reis, Inc.
+- Renewable Energy Group, Inc.
+- Rennova Health, Inc.
+- Resonant Inc
+- RetailMeNot, Inc.
+- Retrophin, Inc.
+- Revance Therapeutics, Inc.
+- Reven Housing REIT, Inc.
+- Revolution Lighting Technologies, Inc.
+- RiceBran Technologies
+- RigNet, Inc.
+- Rocket Fuel Inc.
+- Rocky Mountain Chocolate Factory, Inc.
+- Roka BioScience, Inc.
+- Rosehill Resources Inc.
+- Rubicon Technology, Inc.
+- Ruths Hospitality Group, Inc.
+- S&T BANCORP INC
+- SAExploration Holdings, Inc.
+- SAFETY INSURANCE GROUP INC
+- SAIA INC
+- SAJAN INC
+- SALEM MEDIA GROUP, INC. /DE/
+- SALISBURY BANCORP INC
+- SANDERSON FARMS INC
+- SANDY SPRING BANCORP INC
+- SANFILIPPO JOHN B & SON INC
+- SANGAMO THERAPEUTICS, INC
+- SANMINA CORP
+- SB FINANCIAL GROUP, INC.
+- SBA COMMUNICATIONS CORP
+- SCANSOURCE, INC.
+- SCHMITT INDUSTRIES INC
+- SCHNITZER STEEL INDUSTRIES INC
+- SCHOLASTIC CORP
+- SCHULMAN A INC
+- SCICLONE PHARMACEUTICALS INC
+- SCIENTIFIC GAMES CORP
+- SCYNEXIS INC
+- SEACHANGE INTERNATIONAL INC
+- SEACOAST BANKING CORP OF FLORIDA
+- SEARS HOLDINGS CORP
+- SEATTLE GENETICS INC /WA
+- SECOND SIGHT MEDICAL PRODUCTS INC
+- SECURITY NATIONAL FINANCIAL CORP
+- SEI INVESTMENTS CO
+- SELECT BANCORP, INC.
+- SELECT COMFORT CORP
+- SELECT INCOME REIT
+- SELECTA BIOSCIENCES INC
+- SELECTIVE INSURANCE GROUP INC
+- SEMTECH CORP
+- SENIOR HOUSING PROPERTIES TRUST
+- SENOMYX INC
+- SEQUENTIAL BRANDS GROUP, INC.
+- SERVICESOURCE INTERNATIONAL, INC.
+- SEVCON, INC.
+- SEVERN BANCORP INC
+- SHARPS COMPLIANCE CORP
+- SHENANDOAH TELECOMMUNICATIONS CO/VA/
+- SHILOH INDUSTRIES INC
+- SHINECO, INC.
+- SHOE CARNIVAL INC
+- SHORE BANCSHARES INC
+- SHUTTERFLY INC
+- SI Financial Group, Inc.
+- SIEBERT FINANCIAL CORP
+- SIERRA BANCORP
+- SIGMA DESIGNS INC
+- SIGMA LABS, INC.
+- SIGMATRON INTERNATIONAL INC
+- SILGAN HOLDINGS INC
+- SILICON LABORATORIES INC
+- SIMMONS FIRST NATIONAL CORP
+- SIMULATIONS PLUS INC
+- SINCLAIR BROADCAST GROUP INC
+- SIRIUS XM HOLDINGS INC.
+- SITO MOBILE, LTD.
+- SKYWEST INC
+- SKYWORKS SOLUTIONS, INC.
+- SLM CORP
+- SMARTFINANCIAL INC.
+- SMITH MICRO SOFTWARE INC
+- SMTC CORP
+- SOCIAL REALITY, Inc.
+- SOCKET MOBILE, INC.
+- SOHU COM INC
+- SOLIGENIX, INC.
+- SONIC CORP
+- SONIC FOUNDRY INC
+- SONUS NETWORKS INC
+- SOPHIRIS BIO INC.
+- SORL Auto Parts Inc
+- SOTHERLY HOTELS LP
+- SOUTH STATE Corp
+- SOUTHERN FIRST BANCSHARES INC
+- SOUTHERN MISSOURI BANCORP, INC.
+- SOUTHSIDE BANCSHARES INC
+- SOUTHWEST BANCORP INC
+- SP Plus Corp
+- SPAN AMERICA MEDICAL SYSTEMS INC
+- SPAR GROUP INC
+- SPARTAN MOTORS INC
+- SPECTRUM PHARMACEUTICALS INC
+- SPHERIX INC
+- SPLUNK INC
+- SPORTSMAN'S WAREHOUSE HOLDINGS, INC.
+- SPS COMMERCE INC
+- SS&C Technologies Holdings Inc
+- STAAR SURGICAL CO
+- STAMPS.COM INC
+- STAPLES INC
+- STARBUCKS CORP
+- STATE BANK FINANCIAL CORP
+- STEEL DYNAMICS INC
+- STEIN MART INC
+- STEMLINE THERAPEUTICS INC
+- STERICYCLE INC
+- STERLING CONSTRUCTION CO INC
+- STEVEN MADDEN, LTD.
+- STEWARDSHIP FINANCIAL CORP
+- STRATA Skin Sciences, Inc.
+- STRATTEC SECURITY CORP
+- STRATUS PROPERTIES INC
+- STRAYER EDUCATION INC
+- STREAMLINE HEALTH SOLUTIONS INC.
+- SUMMIT FINANCIAL GROUP INC
+- SUN BANCORP INC /NJ/
+- SUN HYDRAULICS CORP
+- SUNESIS PHARMACEUTICALS INC
+- SUNPOWER CORP
+- SUPERCONDUCTOR TECHNOLOGIES INC
+- SUPERIOR UNIFORM GROUP INC
+- SUPERNUS PHARMACEUTICALS INC
+- SURMODICS INC
+- SUSSEX BANCORP
+- SVB FINANCIAL GROUP
+- SYKES ENTERPRISES INC
+- SYMANTEC CORP
+- SYNALLOY CORP
+- SYNAPTICS Inc
+- SYNCHRONOSS TECHNOLOGIES INC
+- SYNERGY PHARMACEUTICALS, INC.
+- SYNOPSYS INC
+- SYNTEL INC
+- SYNTHESIS ENERGY SYSTEMS INC
+- SYPRIS SOLUTIONS INC
+- Saban Capital Acquisition Corp.
+- Sabre Corp
+- Sage Therapeutics, Inc.
+- Sarepta Therapeutics, Inc.
+- Scripps Networks Interactive, Inc.
+- SeaSpine Holdings Corp
+- Seagate Technology plc
+- SecureWorks Corp
+- SemiLEDs Corp
+- Seneca Foods Corp
+- SenesTech, Inc.
+- Sensus Healthcare, Inc.
+- Sequential Brands Group, Inc.
+- Seres Therapeutics, Inc.
+- ServisFirst Bancshares, Inc.
+- SharpSpring, Inc.
+- ShiftPixy, Inc.
+- Shire plc
+- ShoreTel Inc
+- Sientra, Inc.
+- Sierra Oncology, Inc.
+- Silver Eagle Acquisition Corp.
+- Silver Run Acquisition Corp II
+- Silvercrest Asset Management Group Inc.
+- Sino-Global Shipping America, Ltd.
+- SkyPeople Fruit Juice, Inc
+- Skyline Medical Inc.
+- Smart Sand, Inc.
+- SolarEdge Technologies Inc
+- Sonoma Pharmaceuticals, Inc.
+- Sorrento Therapeutics, Inc.
+- Sotherly Hotels Inc.
+- Sound Financial Bancorp, Inc.
+- Southern National Bancorp of Virginia Inc
+- Spark Energy, Inc.
+- Spark Therapeutics, Inc.
+- Spirit Airlines, Inc.
+- Spok Holdings, Inc
+- Spring Bank Pharmaceuticals, Inc.
+- Sprouts Farmers Market, Inc.
+- Staffing 360 Solutions, Inc.
+- State Auto Financial CORP
+- State National Companies, Inc.
+- SteadyMed Ltd.
+- Stellar Acquisition III Inc.
+- Stellar Biotechnologies, Inc.
+- Stock Yards Bancorp, Inc.
+- Sucampo Pharmaceuticals, Inc.
+- Summer Infant, Inc.
+- SunOpta Inc.
+- Sunrun Inc.
+- Sunshine Bancorp, Inc.
+- Sunshine Heart, Inc.
+- Sunworks, Inc.
+- Super Micro Computer, Inc.
+- Support.com, Inc.
+- Surgery Partners, Inc.
+- Synacor, Inc.
+- Syndax Pharmaceuticals Inc
+- Synutra International, Inc.
+- Syros Pharmaceuticals, Inc.
+- T-Mobile US, Inc.
+- T2 Biosystems, Inc.
+- TACTILE SYSTEMS TECHNOLOGY INC
+- TAKE TWO INTERACTIVE SOFTWARE INC
+- TANDEM DIABETES CARE INC
+- TANDY LEATHER FACTORY INC
+- TAPIMMUNE INC
+- TAYLOR DEVICES INC
+- TD AMERITRADE HOLDING CORP
+- TECH DATA CORP
+- TECHNICAL COMMUNICATIONS CORP
+- TECOGEN INC.
+- TELETECH HOLDINGS INC
+- TELLURIAN INC. /DE/
+- TENAX THERAPEUTICS, INC.
+- TERRAFORM GLOBAL, INC.
+- TESARO, Inc.
+- TESCO CORP
+- TETRA TECH INC
+- TETRAPHASE PHARMACEUTICALS INC
+- TEXAS CAPITAL BANCSHARES INC/TX
+- TFS Financial CORP
+- TG THERAPEUTICS, INC.
+- THESTREET, INC.
+- THRESHOLD PHARMACEUTICALS INC
+- TILE SHOP HOLDINGS, INC.
+- TIMBERLAND BANCORP INC
+- TIPTREE INC.
+- TITAN PHARMACEUTICALS INC
+- TIVITY HEALTH, INC.
+- TIVO INC
+- TOR MINERALS INTERNATIONAL INC
+- TORCHLIGHT ENERGY RESOURCES INC
+- TOWN SPORTS INTERNATIONAL HOLDINGS INC
+- TPI COMPOSITES, INC
+- TRANS WORLD ENTERTAINMENT CORP
+- TRANSCAT INC
+- TRAVELCENTERS OF AMERICA LLC
+- TREVENA INC
+- TRICO BANCSHARES /
+- TRIMAS CORP
+- TRIMBLE INC.
+- TRUPANION INC.
+- TRUSTMARK CORP
+- TSR INC
+- TTM TECHNOLOGIES INC
+- TUCOWS INC /PA/
+- TUESDAY MORNING CORP/DE
+- TWENTY-FIRST CENTURY FOX, INC.
+- TWIN DISC INC
+- TWO RIVER BANCORP
+- Tabula Rasa HealthCare, Inc.
+- TearLab Corp
+- TechTarget Inc
+- Tecnoglass Inc.
+- Telenav, Inc.
+- Teligent, Inc.
+- TerraForm Power, Inc.
+- TerraVia Holdings, Inc.
+- Territorial Bancorp Inc.
+- Tesla, Inc.
+- Texas Roadhouse, Inc.
+- Theravance Biopharma, Inc.
+- TiVo Corp
+- Till Capital Ltd.
+- Titan Machinery Inc.
+- Tokai Pharmaceuticals Inc
+- Tonix Pharmaceuticals Holding Corp.
+- Tracon Pharmaceuticals, Inc.
+- Trade Desk, Inc.
+- TriState Capital Holdings, Inc.
+- TripAdvisor, Inc.
+- Triumph Bancorp, Inc.
+- Trovagene, Inc.
+- TrueCar, Inc.
+- Truett-Hurst, Inc.
+- Turtle Beach Corp
+- U S GLOBAL INVESTORS INC
+- U.S. Auto Parts Network, Inc.
+- U.S. RARE EARTHS, INC
+- UFP TECHNOLOGIES INC
+- ULTRALIFE CORP
+- ULTRATECH INC
+- UMB FINANCIAL CORP
+- UMPQUA HOLDINGS CORP
+- UNICO AMERICAN CORP
+- UNION BANKSHARES INC
+- UNITED BANCORP INC /OH/
+- UNITED BANCSHARES INC/OH
+- UNITED BANKSHARES INC/WV
+- UNITED COMMUNITY BANKS INC
+- UNITED COMMUNITY FINANCIAL CORP
+- UNITED FIRE GROUP INC
+- UNITED GUARDIAN INC
+- UNITED INSURANCE HOLDINGS CORP.
+- UNITED NATURAL FOODS INC
+- UNITED SECURITY BANCSHARES
+- UNITED STATES LIME & MINERALS INC
+- UNITED THERAPEUTICS Corp
+- UNITY BANCORP INC /NJ/
+- UNIVERSAL ELECTRONICS INC
+- UNIVERSAL FOREST PRODUCTS INC
+- UNIVERSAL LOGISTICS HOLDINGS, INC.
+- UNIVERSAL STAINLESS & ALLOY PRODUCTS INC
+- UNIVEST CORP OF PENNSYLVANIA
+- URANIUM RESOURCES INC /DE/
+- URBAN ONE, INC.
+- URBAN OUTFITTERS INC
+- US ECOLOGY, INC.
+- US ENERGY CORP
+- USA TECHNOLOGIES INC
+- USA TRUCK INC
+- UTAH MEDICAL PRODUCTS INC
+- Ubiquiti Networks, Inc.
+- Ulta Beauty, Inc.
+- Ultra Clean Holdings, Inc.
+- Ultragenyx Pharmaceutical Inc.
+- Uni-Pixel
+- Unilife Corp
+- Union Bankshares Corp
+- United Community Bancorp
+- United Financial Bancorp, Inc.
+- Uniti Group Inc.
+- Upland Software, Inc.
+- VALUE LINE INC
+- VARONIS SYSTEMS INC
+- VASCO DATA SECURITY INTERNATIONAL INC
+- VBI VACCINES INC.
+- VBI Vaccines Inc/BC
+- VCA INC
+- VEECO INSTRUMENTS INC
+- VERACYTE, INC.
+- VERINT SYSTEMS INC
+- VERMILLION, INC.
+- VIASAT INC
+- VIAVI SOLUTIONS INC.
+- VICAL INC
+- VICOR CORP
+- VILLAGE SUPER MARKET INC
+- VIRTUS INVESTMENT PARTNERS, INC.
+- VIRTUSA CORP
+- VITAL THERAPIES INC
+- VIVEVE MEDICAL, INC.
+- VIVUS INC
+- VOXX International Corp
+- VSE CORP
+- VWR Corp
+- VWR Funding, Inc.
+- Valeritas Holdings Inc.
+- Vanda Pharmaceuticals Inc.
+- Varex Imaging Corp
+- Vera Bradley, Inc.
+- Verastem, Inc.
+- Vericel Corp
+- Verisk Analytics, Inc.
+- Veritex Holdings, Inc.
+- Versartis, Inc.
+- Vertex Energy Inc.
+- Viacom Inc.
+- ViewRay, Inc.
+- Viking Therapeutics, Inc.
+- Village Bank & Trust Financial Corp.
+- Viper Energy Partners LP
+- Virtu Financial, Inc.
+- VistaGen Therapeutics, Inc.
+- Voyager Therapeutics, Inc.
+- Vuzix Corp
+- WASHINGTON FEDERAL INC
+- WASHINGTON TRUST BANCORP INC
+- WAYNE SAVINGS BANCSHARES INC /DE/
+- WCF Bancorp, Inc.
+- WD 40 CO
+- WEB.COM GROUP, INC.
+- WECAST NETWORK, INC.
+- WERNER ENTERPRISES INC
+- WESBANCO INC
+- WEST CORP
+- WEST MARINE INC
+- WESTAMERICA BANCORPORATION
+- WESTELL TECHNOLOGIES INC
+- WESTERN DIGITAL CORP
+- WEYCO GROUP INC
+- WHOLE FOODS MARKET INC
+- WILLAMETTE VALLEY VINEYARDS INC
+- WILLIS LEASE FINANCE CORP
+- WINDSTREAM HOLDINGS, INC.
+- WINDTREE THERAPEUTICS INC /DE/
+- WINMARK CORP
+- WINTRUST FINANCIAL CORP
+- WMIH CORP.
+- WORLD ACCEPTANCE CORP
+- WPCS INTERNATIONAL INC
+- WSFS FINANCIAL CORP
+- WSI INDUSTRIES, INC.
+- WVS FINANCIAL CORP
+- WYNN RESORTS LTD
+- Walgreens Boots Alliance, Inc.
+- WashingtonFirst Bankshares, Inc.
+- Waterstone Financial, Inc.
+- Wave Life Sciences Ltd.
+- Wayside Technology Group, Inc.
+- WebMD Health Corp.
+- Wellesley Bancorp, Inc.
+- Westbury Bancorp, Inc.
+- Western New England Bancorp, Inc.
+- Wheeler Real Estate Investment Trust, Inc.
+- Wilhelmina International, Inc.
+- Willdan Group, Inc.
+- Wingstop Inc.
+- WisdomTree Investments, Inc.
+- Wolverine Bancorp, Inc.
+- Woodward, Inc.
+- Workhorse Group Inc.
+- Wright Medical Group N.V.
+- XBiotech Inc.
+- XCel Brands, Inc.
+- XILINX INC
+- XOMA Corp
+- XPLORE TECHNOLOGIES CORP
+- Xalles Holdings Inc.
+- Xcerra Corp
+- Xencor Inc
+- Xenetic Biosciences, Inc.
+- Xenith Bankshares, Inc.
+- Xenon Pharmaceuticals Inc.
+- Xperi Corp
+- YAHOO INC
+- YIELD10 BIOSCIENCE, INC.
+- YRC Worldwide Inc.
+- Yulong Eco-Materials Ltd
+- ZAFGEN, INC.
+- ZAGG Inc
+- ZAIS Group Holdings, Inc.
+- ZEBRA TECHNOLOGIES CORP
+- ZILLOW GROUP, INC.
+- ZILLOW INC
+- ZION OIL & GAS INC
+- ZIONS BANCORPORATION /UT/
+- ZIOPHARM ONCOLOGY INC
+- ZIX CORP
+- ZOGENIX, INC.
+- ZYNGA INC
+- Zeltiq Aesthetics Inc
+- Zosano Pharma Corp
+- Zumiez Inc
+- Zynerba Pharmaceuticals, Inc.
+- aTYR PHARMA INC
+- bebe stores, inc.
+- bluebird bio, Inc.
+- eHealth, Inc.
+- iFresh Inc
+- iRhythm Technologies, Inc.
+- lululemon athletica inc.
+- pSivida Corp.
+- pdvWireless, Inc.
+- root9B Holdings, Inc.
+- tronc, Inc.
+- uniQure N.V.
+- vTv Therapeutics Inc.
+- xG TECHNOLOGY, INC.

@@ -44,7 +44,13 @@ class VectorStore:
             
         self.index = faiss.read_index(str(INDEX_PATH))
         self.metadata = pd.read_parquet(METADATA_PATH)
-        self.encoder = SentenceTransformer(self.config.embedding_model)
+        cache_dir = ROOT_DIR / ".model_cache"
+        cache_dir.mkdir(exist_ok=True)
+        self.encoder = SentenceTransformer(
+            self.config.embedding_model,
+            cache_folder=str(cache_dir)
+        )
+
 
     def search(self, query: str, top_k: int | None = None) -> List[Dict[str, Any]]:
         """Encodes a search query and returns top-K matching document records."""
